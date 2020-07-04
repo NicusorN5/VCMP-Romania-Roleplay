@@ -13,7 +13,10 @@ function onScriptUnload()
 
 function onPlayerJoin( player )
 {
-	PLAYERS[player.ID] = Player(player);
+	PLAYERS[player.ID] = Player(player.ID);
+    PLAYERS[player.ID].Join();
+    local country = IpToCountry(player.IP);
+    MessagePlayer("Bine ai venit, " + player.Name + " ( " + timez("gmt") + " ) ( " + country + " ) ", player);
 }
 
 function onPlayerPart( player, reason )
