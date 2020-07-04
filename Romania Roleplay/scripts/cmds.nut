@@ -30,6 +30,7 @@ function onPlayerCommand( player, cmd, text )
 				}
 			}
 			break;
-		default: break;
+		default:
+			break;
 	}
 }
