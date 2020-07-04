@@ -39,7 +39,8 @@ class Player
 	LastPosZ = 0;
 
 	SpamMessages = 0;
-	
+	Logged = false;
+	LoginAttempts = 0;
 }
 //Functii interene
 function Player::GetInst()
@@ -78,7 +79,7 @@ function Player::Register(password)
 }
 function Player::Login(password)
 {
-	
+	return (password == this.GetPassword())
 }
 function Player::Message(romana,engleza)
 {
