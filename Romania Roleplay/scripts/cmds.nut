@@ -2,8 +2,25 @@ function onPlayerCommand( player, cmd, text )
 {
 	switch(cmd)
 	{
+		case "cmds":
+		case "cmd":
+		case "commands":
+		case "command":
+		case "help":
+		MessagePlayer("/register, /login, /discord, /clock",player)
+		break;
+
 		case "reguli":
 		case "rules":
+		MessagePlayer("[#ff0000][Rules][#ffffff]Please do not try to use any hacks/cheats or any kind of spam otherwise you will be banned/kicked", player)
+			break;
+		case "discord":
+		MessagePlayer("[#ffffff]https://discord.gg/9dcZRqe", player)
+			break;
+		case "worldclock":
+		case "clock":
+		case "ceas":
+		MessagePlayer("[#ffffff]" + world_time(), player)
 			break;
 		case "register":
 			if(PLAYERS[player.ID].Register(text))
@@ -31,6 +48,6 @@ function onPlayerCommand( player, cmd, text )
 			}
 			break;
 		default:
-			break;
+		MessagePlayer("[#ff0000][ERROR][#ffffff] Command /" + cmd + "doesn't exist. Please check /cmds", player)
 	}
 }

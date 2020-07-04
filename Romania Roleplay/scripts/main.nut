@@ -1,8 +1,84 @@
+///////WORLDTIME\\\\\\\\\
+/* -----------USAGE----------
+
+Outputs the current time in the following zones.
+
+idlw International Date Line West
+nt Nome Time
+ahst Alaska-Hawaii Standard Time
+yst Yukon Standard Time
+pst Pacific Standard Time
+mst Mountain Standard Time
+cst Central Standard Time
+est Eastern Standard Time
+ast Atlantic Standard Time
+e-ast Eastern-Atlantic Standard Time
+at Azores Time
+wat West Africa Time
+gmt Greenwich Mean Time
+cet Central European Time
+eet Eastern European Time and USSR Zone 1
+bt Baghdad Time and USSR Zone 2
+zp4 USSR Zone 3
+zp5 USSR Zone 4
+zp6 USSR Zone 5
+zp7 USSR Zone 6
+wast West Australian Standard Time and USSR Zone 7
+jst Japan Standard Time and USSR Zone 8
+act Australian Central Time
+east East Australian Standard Time and USSR Zone 9
+eeast Far East Australian Standard Time
+idle International Date Line East
+
+Example:
+print( timez("gmt") );
+
+Func Desc:
+> zname(zone) will return the offset for that zone.
+> czone(zone) will return the ctime for that zone.
+> timez(zone) will return the time in that zone in hh:mm format.
+*/
+
+function zname(region)
+{
+local
+m_Zone = [ "idlw", "nt", "ahst", "yst", "pst", "mst", "cst", "est", "ast", "e-ast", "at", "wat", "gmt", "cet", "eet", "bt", "zp4", "zp5", "zp6", "zp7", "wast", "jst", "act", "east", "eeast", "ind", "sg", "aus", "Israel", "idle" ],
+m_Offset = [ "-12", "-11", "-10", "-9", "-8", "-7", "-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "4.5", "7", "9", "2", "1" ],
+idx = m_Zone.find(region);
+
+return m_Offset[ idx ];
+}
+
+function czone(idx)
+{
+return time() + ( 3600 * zname(idx).tofloat() );
+}
+
+function timez(idx)
+{
+local d = date( czone(idx) );
+return format("%02d:%02d", d.hour, d.min);
+}
+
+function world_time()
+{
+return @"Netherlands: " + timez("gmt") +
+" - United Kingdom: " + timez("cet") +
+" - Australia: " + timez("aus") +
+" - Brasil: " + timez("est") +
+" - United States: " + timez("est") +
+" - Israel: " + timez("Israel") +
+" - Marroco: " + timez("sg") +
+" - Dominican Republic: " + timez("ast") +
+" - Jordan: " + timez("ast") +
+" - India: " + timez("ind");
+}
+
 function Main()
 {
 	SetServerName("[RO]Romania Roleplay");
 	SetGameModeName("RRP 0.0.0[EN/RO]");
-	SetPassword("dt_over_dx");
+	//SetPassword("dt_over_dx");
 }
 Main();
 dofile("scripts/functions.nut");
@@ -10,7 +86,9 @@ dofile("scripts/events.nut");
 dofile("scripts/player.nut");
 dofile("scripts/jobs.nut");
 dofile("scripts/client.nut");
-
+dofile("scripts/cmds.nut")
+dofile("scripts/maps.nut")
+dofile("IPtoCountry.nut")
 PLAYERS <- array(100,0);
 
 DB <- ConnectSQL( "Database.db" );
