@@ -1,10 +1,12 @@
 
 function onScriptLoad()
 {
+	print("check #1");
 }
 
 function onScriptUnload()
 {
+	DisconnectSQL( DB );
 }
 
 // =========================================== P L A Y E R   E V E N T S ==============================================
