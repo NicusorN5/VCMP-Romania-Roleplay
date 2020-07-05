@@ -1,4 +1,6 @@
-///////WORLDTIME\\\\\\\\\
+/////////////////////////
+///////WORLDTIME/////////
+/////////////////////////
 
 /* -----------USAGE----------
 Outputs the current time in the following zones.
@@ -60,24 +62,11 @@ local d = date( czone(idx) );
 return format("%02d:%02d", d.hour, d.min);
 }
 
-function world_time()
-{
-return @"Netherlands: " + timez("gmt") +
-" - United Kingdom: " + timez("cet") +
-" - Australia: " + timez("aus") +
-" - Brasil: " + timez("est") +
-" - United States: " + timez("est") +
-" - Israel: " + timez("Israel") +
-" - Marroco: " + timez("sg") +
-" - Dominican Republic: " + timez("ast") +
-" - Jordan: " + timez("ast") +
-" - India: " + timez("ind");
-}
 
 function Main()
 {
-	SetServerName("[RO]Romania Roleplay");
-	SetGameModeName("RRP 0.0.0[EN/RO]");
+	SetServerName("[RO/EN] VCMP Romania Roleplay");
+	SetGameModeName("RRP 0.0.0 [EN/RO]");
 	//SetPassword("dt_over_dx");
 	SetTimeRate(1000);
 	SetFriendlyFire(false);
@@ -91,21 +80,17 @@ dofile("scripts/client.nut");
 dofile("scripts/cmds.nut")
 dofile("scripts/maps.nut")
 dofile("IPtoCountry.nut")
+dofile("scripts/zombie_survival.nut")
 PLAYERS <- array(100,null);
-
+iptocountry <- ConnectSQL("IpToCountry.db")
 DB <- ConnectSQL( "Database.db" );
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Cont(Nume TEXT, Parola TEXT, AdminLvl INT, Limba INT)");
-
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Status(Nume TEXT,Bani INT,BaniBanca INT, Clan TEXT,Job INT,"+
 "RobSkill INT,CopSkill INT,MedicSkill INT,FiremanSkill INT,HunterSkill INT,BankGuardSkill INT,TruckerSkill INT,"+
 "TerroristSkill INT,GangsterSkill INT,ArmsDealerSkill INT,RacesFinished INT,EventsFinished INT,VIPLvl INT,Hunger INT,"+
 "Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT)");
-
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Masini(CarID INTEGER PRIMARY KEY AUTOINCREMENT,ModelID INT,PosX FLOAT,PosY FLOAT,PosZ FLOAT,"+
 "RotX FLOAT,RotY FLOAT,RotZ FLOAT,RotW FLOAT,Color1 INT,Color2 INT,Fuel INT,Nitro INT)");
-
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Props(PropID INTEGER PRIMARY KEY AUTOINCREMENT, Nume TEXT, PosX FLOAT,PosY FLOAT, PosZ FLOAT, Owner TEXT, Shared1 TEXT,Shared2 TEXT,Shared3 TEXT)");
-
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS RobPoints(Nume TEXT,PosX FLOAT,PosY FLOAT,PosZ FLOAT)");
-
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Bans(Victim TEXT,Admin TEXT,Reason TEXT,Timp TEXT)");

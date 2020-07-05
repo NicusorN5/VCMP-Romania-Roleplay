@@ -1,0 +1,12 @@
+{
+	"token" : "NzI5NDU2Nzg1ODkwNjA3MTc0.XwJQSg.Aa5Ad9n0Dx7T3JgowsQiYQAOHDU",
+	"prefix" : "!",
+	"status" : "VCMP Romania Roleplay: World's best VCMP Server",
+	
+	"defaultMessages" : false,
+	"defaultCommands" : false,
+	"specialNicks" : false,
+	"specialMessages" : false,
+
+	"channels" : [729456368028745791]
+}

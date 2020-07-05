@@ -6,6 +6,7 @@ function onScriptLoad()
 
 function onScriptUnload()
 {
+    DisconnectSQL(iptocountry);
 	DisconnectSQL( DB );
 }
 
@@ -15,6 +16,18 @@ function onPlayerJoin( player )
 {
 	PLAYERS[player.ID] = Player(player.ID);
 	PLAYERS[player.ID].Load();
+    local country = IpToCountry(player.IP);
+    Message("[#00ff00]Player " + player.Name + " has joined the server ( " + country + " )")
+    CreateRadioStream(15, "Taraf", "http://manele.radiotaraf.ro:7100", true);
+    CreateRadioStream(16, "Antena Satelor", "http://stream2.srr.ro:8042", true);
+    CreateRadioStream(17, "Romania Actualitati", "http://stream2.srr.ro:8002", true);
+    CreateRadioStream(18, "National FM", "http://live3.nationalfm.ro:8001", true);
+    CreateRadioStream(19, "DIGI FM", "http://edge76.rdsnet.ro:84/digifm/digifm.mp3", true);
+    CreateRadioStream(20, "Europa FM", "http://astreaming.europafm.ro:8000/europafm_aacp48k", true);
+    CreateRadioStream(21, "Kiss FM", "https://astreaming.edi.ro:8443/EuropaFM_aac", true);
+    CreateRadioStream(22, "Magic FM", "http://live.magicfm.ro:9128/magicfm.aacp", true);
+    CreateRadioStream(23, "Radio Zu", "https://live7digi.antenaplay.ro/radiozu/02148/seg48000-04294086.ts", true);
+
 }
 
 function onPlayerPart( player, reason )
@@ -33,18 +46,19 @@ function onPlayerRequestClass( player, classID, team, skin )
 
 function onPlayerRequestSpawn( player )
 {
-	if(PLAYERS[player.ID].Logged == false)
-	{
-		if(PLAYERS[player.ID].GetPassword() == null) MSGPLR(C_RED+"Trebuie sa te inregistrezi ca sa continui.",C_RED+"You must register to continue.",player);
-		else MSGPLR(C_RED+"Trebuie sa te loghezi ca sa continui.",C_RED+"You must login to continue.",player);
-		return 0;
-	}
-	return 1;
+    if(PLAYERS[player.ID].Logged == false)
+    {
+        if(PLAYERS[player.ID].GetPassword() == null) MSGPLR(C_RED+"Trebuie sa te inregistrezi ca sa continui.",C_RED+"You must register to continue.",player);
+        else MSGPLR(C_GREEN+"logheaza-te pe contul tau cu /login <parola> pentru a continua.",C_GREEN+"Please login to your account with /login <password> in order to continue..",player);
+        return 0;
+    }
+    return 1;   
 }
 
 function onPlayerSpawn( player )
 {
 	PLAYERS[player.ID].Spawn();
+    player.Colour = RGB( rand()%255,rand()%255,rand()%255 )
 }
 
 function onPlayerDeath( player, reason )
@@ -62,10 +76,10 @@ function onPlayerTeamKill( player, killer, reason, bodypart )
 	onPlayerKill( player, killer, reason, bodypart )
 }
 
-function onPlayerChat( player, text )
-{
-	print( player.Name + ": " + text );
-	return 1;
+function onPlayerChat(player, text)
+{     
+    Message("[#ffffff][" + player.ID + "] " + PlrColToStrHex(player) + "" + player.Name + "[#ffffff]: " + text + "")
+    print("[" + player.ID + "] " + player.Name + " " + text);
 }
 
 function onPlayerPM( player, playerTo, message )

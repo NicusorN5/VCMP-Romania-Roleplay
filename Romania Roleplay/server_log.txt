@@ -23,3 +23,2389 @@ Loaded plugin: squirrel04rel64
 Loaded plugin: sqlite04rel64
 
 Unable to start server on host:  port: 8192. Port in use?
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your c[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spaw[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter.
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set
+[SCRIPT]  [#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Remember to report bugs and crashes to my [#7289da]discord server [#FFFFFF]or [#f195ac]VC:MP Forum (https://forum.vc-mp.org)"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car lights by pressing [#ee7600]1 [#FFFFFF]and [#ee7600]2"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can use the car alarm by pressing [#ee7600]3 [#FFFFFF]and [#ee7600]4"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Check [#0051FF]/help [#FFFFFF]for a full commands list"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Go to any Pay 'n' Spray to fix your car"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can activate the spawnloc feature by typing [#ffff00]/spawnloc set"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] You can switch between windowed and fullscreen mode by pressing [#ee7600]Alt [#ee7600]+ [#ee7600]Enter."
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Fix your car by pressing [#ee7600]F12"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] Flip your car by pressing [#ee7600]F1"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [Messages()] scripts/Main.nut line [119]
+
+LOCALS
+[currentString] "[#00FF00][AJUTOR SOCIAL][#FFFFFF] more updates soon"
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
