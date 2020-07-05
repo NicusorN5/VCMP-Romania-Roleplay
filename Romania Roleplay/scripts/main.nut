@@ -80,6 +80,7 @@ function Main()
 	SetGameModeName("RRP 0.0.0[EN/RO]");
 	//SetPassword("dt_over_dx");
 	SetTimeRate(1000);
+	SetFriendlyFire(false);
 }
 Main();
 dofile("scripts/functions.nut");
@@ -90,14 +91,15 @@ dofile("scripts/client.nut");
 dofile("scripts/cmds.nut")
 dofile("scripts/maps.nut")
 dofile("IPtoCountry.nut")
-PLAYERS <- array(100,0);
+PLAYERS <- array(100,null);
 
 DB <- ConnectSQL( "Database.db" );
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Cont(Nume TEXT, Parola TEXT, AdminLvl INT, Limba INT)");
 
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Status(Nume TEXT,Bani INT,BaniBanca INT, Clan TEXT,Job INT,"+
 "RobSkill INT,CopSkill INT,MedicSkill INT,FiremanSkill INT,HunterSkill INT,BankGuardSkill INT,TruckerSkill INT,"+
-"TerroristSkill INT,GangsterSkill INT,ArmsDealerSkill INT,RacesFinised INT,EventsFinished INT,VIPLvl INT,Hunger INT,Skin INT)");
+"TerroristSkill INT,GangsterSkill INT,ArmsDealerSkill INT,RacesFinished INT,EventsFinished INT,VIPLvl INT,Hunger INT,"+
+"Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT)");
 
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Masini(CarID INTEGER PRIMARY KEY AUTOINCREMENT,ModelID INT,PosX FLOAT,PosY FLOAT,PosZ FLOAT,"+
 "RotX FLOAT,RotY FLOAT,RotZ FLOAT,RotW FLOAT,Color1 INT,Color2 INT,Fuel INT,Nitro INT)");

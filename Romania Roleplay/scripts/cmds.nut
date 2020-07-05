@@ -1,5 +1,6 @@
 function onPlayerCommand( player, cmd, text )
 {
+	cmd = cmd.tolower();
 	switch(cmd)
 	{
 		case "cmds":
@@ -31,20 +32,31 @@ function onPlayerCommand( player, cmd, text )
 			else PLAYERS[player.ID].Message(C_RED+"Acest cont deja exista!",C_RED+"This account already exists");
 			break;
 		case "login":
+			if(PLAYERS[player.ID].Logged == true)
+			{
+				MSGPLR(C_RED+"Esti deja logat",C_RED+"You are already logged in",player);
+				break;
+			}
+			if(PLAYERS[player.ID].GetPassword() == null)
+			{
+				MSG(C_RED+"Acest cont nu este inregistrat.",C_RED+"This account is not registered.");
+				break;
+			}
 			if(PLAYERS[player.ID].Login(text))
 			{
 				MSG(C_GREEN+player+" sa logat!",C_GREEN+player+" just logged in!");
-				PLAYERS[player.ID].Message(C_GREEN+"Bun venit inapoi!",C_GREEN+"Welcome back!");
+				MSGPLR(C_GREEN+"Bun venit inapoi!",C_GREEN+"Welcome back!",player);
 			}
 			else 
 			{
-				PLAYERS[player.ID].LoginAttempts++;
-				MSGPLR(C_RED+"Parola gresita! ["+PLAYERS[player.ID].LoginAttempts+"/5]",C_RED+"Wrong password! ["+PLAYERS[player.ID].LoginAttempts+"/5]");
 				if(PLAYERS[player.ID].LoginAttempts > 5)
 				{
 					MSG(C_RED+"Oops, "+player.Name+" si-a uitat parola!",C_RED+"Oops, "+player.Name+" forgot his password!");
 					player.Kick();
+					break;
 				}
+				PLAYERS[player.ID].LoginAttempts++;
+				MSGPLR(C_RED+"Parola gresita! ["+PLAYERS[player.ID].LoginAttempts+"/5]",C_RED+"Wrong password! ["+PLAYERS[player.ID].LoginAttempts+"/5]",player);
 			}
 			break;
 		case "pos":

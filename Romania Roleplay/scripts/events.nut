@@ -14,10 +14,15 @@ function onScriptUnload()
 function onPlayerJoin( player )
 {
 	PLAYERS[player.ID] = Player(player.ID);
+	PLAYERS[player.ID].Load();
 }
 
 function onPlayerPart( player, reason )
 {
+	PLAYERS[player.ID].LastPosX = player.Pos.x;
+	PLAYERS[player.ID].LastPosY = player.Pos.y;
+	PLAYERS[player.ID].LastPosZ = player.Pos.z;
+	PLAYERS[player.ID].Quit();
 	PLAYERS[player.ID] = null;
 }
 
@@ -30,6 +35,8 @@ function onPlayerRequestSpawn( player )
 {
 	if(PLAYERS[player.ID].Logged == false)
 	{
+		if(PLAYERS[player.ID].GetPassword() == null) MSGPLR(C_RED+"Trebuie sa te inregistrezi ca sa continui.",C_RED+"You must register to continue.",player);
+		else MSGPLR(C_RED+"Trebuie sa te loghezi ca sa continui.",C_RED+"You must login to continue.",player);
 		return 0;
 	}
 	return 1;
@@ -37,7 +44,7 @@ function onPlayerRequestSpawn( player )
 
 function onPlayerSpawn( player )
 {
-	//(-1359.28, -932.029, 20.8931)
+	PLAYERS[player.ID].Spawn();
 }
 
 function onPlayerDeath( player, reason )
@@ -46,10 +53,13 @@ function onPlayerDeath( player, reason )
 
 function onPlayerKill( player, killer, reason, bodypart )
 {
+	PLAYERS[killer.ID].Deaths++;
+	PLAYERS[player.ID].Kills++;
 }
 
 function onPlayerTeamKill( player, killer, reason, bodypart )
 {
+	onPlayerKill( player, killer, reason, bodypart )
 }
 
 function onPlayerChat( player, text )
