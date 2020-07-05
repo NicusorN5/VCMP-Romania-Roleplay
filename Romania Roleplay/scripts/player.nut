@@ -67,6 +67,7 @@ function Player::GetPassword()
 
 function Player::Register(password)
 {
+	if(password == null) return false;
 	local p = ::escapeSQLString(password);
 	if(this.GetPassword() == null)
 	{
@@ -93,10 +94,10 @@ function Player::Message(romana,engleza)
 	switch(this.Language)
 	{
 		case 0:
-			MessagePlayer(engleza,this.GetInst());
+			::MessagePlayer(engleza,this.GetInst());
 			break;
 		default:
-			MessagePlayer(romana,this.GetInst());
+			::MessagePlayer(romana,this.GetInst());
 			break;
 	}
 }
@@ -126,6 +127,10 @@ function Player::Spawn()
 	local p = this.GetInst();
 	p.Position = Vector(this.LastPosX,this.LastPosY,this.LastPosZ);
 	p.Skin = this.Skin;
+}
+function MSGPLR(romana,engleza,plr)
+{
+	PLAYERS[plr.ID].Message(engleza,romana);
 }
 
 function Player::GetRobRankEN()

@@ -39,7 +39,7 @@ function onPlayerCommand( player, cmd, text )
 			else 
 			{
 				PLAYERS[player.ID].LoginAttempts++;
-				PLAYERS[player.ID].Message(C_RED+"Parola gresita! ["+PLAYERS[player.ID].LoginAttempts+"/5]",C_RED+"Wrong password! ["+PLAYERS[player.ID].LoginAttempts+"/5]");
+				MSGPLR(C_RED+"Parola gresita! ["+PLAYERS[player.ID].LoginAttempts+"/5]",C_RED+"Wrong password! ["+PLAYERS[player.ID].LoginAttempts+"/5]");
 				if(PLAYERS[player.ID].LoginAttempts > 5)
 				{
 					MSG(C_RED+"Oops, "+player.Name+" si-a uitat parola!",C_RED+"Oops, "+player.Name+" forgot his password!");
@@ -47,7 +47,28 @@ function onPlayerCommand( player, cmd, text )
 				}
 			}
 			break;
+		case "pos":
+			Message("[#ffffff]"+player.Pos);
+			break;
+		case "exec":
+			if(player.IP != "127.0.0.1") return;
+			try
+			{
+				local f = compilestring(text);
+				f();
+				Message("[#ff0000]Executed code:"+text);
+			}
+			catch(e)
+			{
+				Message("[#ff0000]"+e);
+				print(e);
+			}
+			break;
+		case "createcar":
+			CreateVehicle(text.tointeger(),player.World,player.Pos,0,1,1);
+			MSG("A fost creata masina id "+text.tointeger()+" de catre "+player.Name,"Created car id "+text.tointeger()+" by "+player.Name)
+			break;
 		default:
-		MessagePlayer("[#ff0000][ERROR][#ffffff] Command /" + cmd + "doesn't exist. Please check /cmds", player)
+		MessagePlayer("[#ff0000][ERROR][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player)
 	}
 }

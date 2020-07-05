@@ -13,7 +13,7 @@ function onScriptUnload()
 
 function onPlayerJoin( player )
 {
-	PLAYERS[player.ID] = Player(player);
+	PLAYERS[player.ID] = Player(player.ID);
 }
 
 function onPlayerPart( player, reason )
@@ -28,11 +28,16 @@ function onPlayerRequestClass( player, classID, team, skin )
 
 function onPlayerRequestSpawn( player )
 {
+	if(PLAYERS[player.ID].Logged == false)
+	{
+		return 0;
+	}
 	return 1;
 }
 
 function onPlayerSpawn( player )
 {
+	//(-1359.28, -932.029, 20.8931)
 }
 
 function onPlayerDeath( player, reason )

@@ -1,6 +1,6 @@
 ///////WORLDTIME\\\\\\\\\
-/* -----------USAGE----------
 
+/* -----------USAGE----------
 Outputs the current time in the following zones.
 
 idlw International Date Line West
@@ -79,6 +79,7 @@ function Main()
 	SetServerName("[RO]Romania Roleplay");
 	SetGameModeName("RRP 0.0.0[EN/RO]");
 	//SetPassword("dt_over_dx");
+	SetTimeRate(1000);
 }
 Main();
 dofile("scripts/functions.nut");
