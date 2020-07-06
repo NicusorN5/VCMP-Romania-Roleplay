@@ -1,5 +1,58 @@
 function onPlayerCommand(player, cmd, text) {
     switch (cmd.tolower()) {
+        //START OF ADMINCMDS
+        case "ann":
+            if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
+            else {
+                Message(C_RED + "/////////////////////ANNOUNCE///////////////////////")
+                Message(C_WHITE + text)
+                Message(C_WHITE + "Sincerity, " + player.Name)
+                Message(C_RED + "////////////////////////////////////////////////////")
+            }
+            break;
+        case "bigann":
+            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            else {
+                AnnounceAll(text, 3)
+            }
+            break;
+
+        case "warn":
+            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            else {
+                local plr = FindPlayer(text)
+                Message(C_RED + "Player " + plr.Name + " has been warned by " + player.Name)
+                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost avertizat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been warned by " + player.Name + "")
+                plr.Pos.z += 10
+                //plr.Pos = Vector(-2350, -1950, 5.25654)
+            }
+            break;
+        case "inv":
+        case "invincible":
+        case "immunity":
+            switch (text) {
+                case "on":
+                    if (!player.Immunity) {
+                        player.Immunity = -1
+                        MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.")
+                    } else {
+                        MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on")
+                    }
+                    break;
+                case "off":
+                    if (!player.Immunity) {
+                        player.Immunity = 0
+                        MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.")
+                    } else {
+                        MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off")
+                    }
+                    break;
+                default:
+                    MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
+            }
+            break;
+
+            //END   OF ADMINCMDS
         case "cmds":
         case "cmd":
         case "commands":
