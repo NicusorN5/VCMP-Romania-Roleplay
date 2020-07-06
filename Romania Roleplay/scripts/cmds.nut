@@ -65,7 +65,18 @@ function onPlayerCommand(player, cmd, text) {
             }
         }
         break;
+        /*          if(PLAYERS[player.ID].Admin > 1)
+            {
 
+            }*/
+        case "addcash":
+        if (!text) MessagePlayer(C_RED + "Syntax: /addcash <player> <ammount>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
+        else {
+            local params = split(text, " "), plr = FindPlayer(params[0]), ammount = params[1];
+            plr.GiveMoney(ammount.tointeger());
+        }
+        break;
         case "clear":
         case "clearchat":
         case "clr":
@@ -186,7 +197,7 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;
             case "admincmds":
-            MessagePlayer(C_WHITE + "[LVL 1]: /ann, /bigann, /goto, /bring, /warn", player)
+            MessagePlayer(C_WHITE + "[LVL 1]: /ann, /bigann, /goto, /bring, /warn, /addcash", player)
 			MessagePlayer(C_WHITE + "[LVL 2]: /kick, /ban, /drown, /clearchat, /inv	", player)
 			MessagePlayer(C_WHITE + "[LVL 3]: /send-clien-side-message", player)
             break;
