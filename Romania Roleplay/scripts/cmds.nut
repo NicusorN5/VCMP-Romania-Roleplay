@@ -51,7 +51,7 @@ function onPlayerCommand(player, cmd, text) {
                     MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
             }
             break;
-
+            
             //END   OF ADMINCMDS
         case "cmds":
         case "cmd":
