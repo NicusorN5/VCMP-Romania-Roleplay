@@ -2,7 +2,7 @@ function onPlayerCommand(player, cmd, text) {
     switch (cmd.tolower()) {
         //START OF ADMINCMDS
         case "bring":
-/*        	if(PLAYERS[player.ID].Admin > 1)
+/*        	if(PLAYERS[player.ID].AdminLvl > 1)
         	{
 
         	}*/
@@ -16,7 +16,7 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;
         case "goto":
-/*        	if(PLAYERS[player.ID].Admin > 1)
+/*        	if(PLAYERS[player.ID].AdminLvl > 1)
         	{
 
         	}*/
@@ -30,7 +30,7 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;	
         case "kick":
-/*        	if(PLAYERS[player.ID].Admin > 2)
+/*        	if(PLAYERS[player.ID].AdminLvl > 2)
         	{
 
         	}*/
@@ -48,7 +48,7 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;
         case "ban":
-/*        	if(PLAYERS[player.ID].Admin > 2)
+/*        	if(PLAYERS[player.ID].AdminLvl > 2)
         	{
 
         	}*/
@@ -65,7 +65,7 @@ function onPlayerCommand(player, cmd, text) {
             }
         }
         break;
-        /*          if(PLAYERS[player.ID].Admin > 1)
+        /*          if(PLAYERS[player.ID].AdminLvl > 1)
             {
 
             }*/
@@ -80,7 +80,7 @@ function onPlayerCommand(player, cmd, text) {
         case "clear":
         case "clearchat":
         case "clr":
-       		if(PLAYERS[player.ID].Admin > 2)
+       		if(PLAYERS[player.ID].AdminLvl > 2)
         	{
         		MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -96,7 +96,7 @@ function onPlayerCommand(player, cmd, text) {
         break;
 
         case "ann":
-        	if(PLAYERS[player.ID].Admin > 1)
+        	if(PLAYERS[player.ID].AdminLvl > 1)
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -111,7 +111,7 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "bigann":
-        	if(PLAYERS[player.ID].Admin > 1) 
+        	if(PLAYERS[player.ID].AdminLvl > 1) 
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -123,7 +123,7 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "drown":
-        	if(PLAYERS[player.ID].Admin > 2) 
+        	if(PLAYERS[player.ID].AdminLvl > 2) 
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -138,7 +138,7 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "warn":
-        	if(PLAYERS[player.ID].Admin > 1)
+        	if(PLAYERS[player.ID].AdminLvl > 1)
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -155,7 +155,7 @@ function onPlayerCommand(player, cmd, text) {
         case "inv":
         case "invincible":
         case "immunity":
-        	if(PLAYERS[player.ID].Admin > 2)
+        	if(PLAYERS[player.ID].AdminLvl > 2)
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -185,7 +185,7 @@ function onPlayerCommand(player, cmd, text) {
 			}
 			break;
         case "send-client-side-message":
-        if(PLAYERS[player.ID].Admin > 3)
+        if(PLAYERS[player.ID].AdminLvl > 3)
 		{
 			MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 			break;
@@ -517,6 +517,20 @@ function onPlayerCommand(player, cmd, text) {
             CreateVehicle(text.tointeger(), player.World, player.Pos, 0, 1, 1);
             MSG("A fost creata masina id " + text.tointeger() + " de catre " + player.Name, "Created car id " + text.tointeger() + " by " + player.Name)
             break;
+		case "newpass":
+			local result = PLAYERS[player.ID].PasswordChange(text);
+			switch(result)
+			{
+				case 0:
+					MSGPLR(C_GREEN+"Parola a fost schimbata cu success! Nu o iuta "+C_RED+text,C_GREEN+"Your password has been succesfully changed. Do not forget it "+C_RED+text,player);
+					break;
+				case 1:
+					MSGPLR(C_RED+"Trebuie sa te loghezi ca sa poti folosii aceasta comanda",C_RED+"You must login in order to use this command.",player);
+					break;
+				case 2:
+					MSGPLR(C_RED+"Foloseste /newpass <parola noua>",C_RED+"Use /newpass <new password>",player);
+				default:break;
+			}
         default:
             MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);
     }

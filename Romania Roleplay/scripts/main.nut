@@ -88,7 +88,7 @@ QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Cont(Nume TEXT, Parola TEXT, AdminLvl IN
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Status(Nume TEXT,Bani INT,BaniBanca INT, Clan TEXT,Job INT,"+
 "RobSkill INT,CopSkill INT,MedicSkill INT,FiremanSkill INT,HunterSkill INT,BankGuardSkill INT,TruckerSkill INT,"+
 "TerroristSkill INT,GangsterSkill INT,ArmsDealerSkill INT,RacesFinished INT,EventsFinished INT,VIPLvl INT,Hunger INT,"+
-"Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT)");
+"Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT,WantedLevel FLOAT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Masini(CarID INTEGER PRIMARY KEY AUTOINCREMENT,ModelID INT,PosX FLOAT,PosY FLOAT,PosZ FLOAT,"+
 "RotX FLOAT,RotY FLOAT,RotZ FLOAT,RotW FLOAT,Color1 INT,Color2 INT,Fuel INT,Nitro INT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Props(PropID INTEGER PRIMARY KEY AUTOINCREMENT, Nume TEXT, PosX FLOAT,PosY FLOAT, PosZ FLOAT, Owner TEXT, Shared1 TEXT,Shared2 TEXT,Shared3 TEXT)");

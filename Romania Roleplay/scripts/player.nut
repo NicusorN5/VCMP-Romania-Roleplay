@@ -17,6 +17,7 @@ class Player
 	Password = null;
 	Language = 0; // 0 - eng, 1 - romana
 	Cash = 0;
+	WantedLevel = 0;
 	Skin = 0;
 	BankCash = 0;
 	AdminLvl = 0;
@@ -80,8 +81,8 @@ function Player::Register(password)
 		::QuerySQL(DB,"INSERT INTO Cont(Nume , Parola , AdminLvl , Limba ) VALUES('"+n+"','"+p+"', 0 , 0 )");
 		::QuerySQL(DB,"INSERT INTO Status(Nume ,Bani ,BaniBanca , Clan ,Job ,"+
 "RobSkill ,CopSkill ,MedicSkill ,FiremanSkill ,HunterSkill ,BankGuardSkill ,TruckerSkill ,"+
-"TerroristSkill ,GangsterSkill ,ArmsDealerSkill ,RacesFinished ,EventsFinished ,VIPLvl ,Hunger, Skin, Kills, Deaths, LastPosX, LastPosY, LastPosZ ) VALUES "+
-"('"+n+"','0','0','','0','0','0','0','0','0','0','0','0','0','0','0','0','0','100','15','0','0','0','0','0')");
+"TerroristSkill ,GangsterSkill ,ArmsDealerSkill ,RacesFinished ,EventsFinished ,VIPLvl ,Hunger, Skin, Kills, Deaths, LastPosX, LastPosY, LastPosZ,WantedLevel ) VALUES "+
+"('"+n+"','0','0','','0','0','0','0','0','0','0','0','0','0','0','0','0','0','100','15','0','0','0','0','0','0')");
 		this.Logged = true;
 		return true;
 	}
@@ -141,6 +142,7 @@ function Player::Load()
 		this.LastPosX = ::GetSQLColumnData(q,22);
 		this.LastPosY = ::GetSQLColumnData(q,23);
 		this.LastPosZ = ::GetSQLColumnData(q,24);
+		this.WantedLevel = ::GetSQLColumnData(q,25);
 		::FreeSQLQuery(q);
 	}
 	this.RefreshIP();
@@ -152,7 +154,7 @@ function Player::SaveStats()
 	::QuerySQL(DB,"UPDATE Status SET Bani = "+this.Cash+" ,BaniBanca = "+this.BankCash+" , Clan = '"+this.Clan+"' ,Job = "+this.Job+" ,"+
 "RobSkill = "+this.RobSkill+" ,CopSkill = "+this.CopSkill+" ,MedicSkill = "+this.MedicSkill+" ,FiremanSkill = "+this.FiremanSkill+",HunterSkill = "+this.HunterSkill+" ,BankGuardSkill = "+this.BankGuardSkill+",TruckerSkill = "+this.TruckerSkill+" ,"+
 "TerroristSkill = "+this.TerroristSkill+" ,GangsterSkill = "+this.GangsterSkill+" ,ArmsDealerSkill = "+this.ArmsDealerSkill+",RacesFinished = "+this.RacesFinished+" ,EventsFinished = "+this.EventsFinished+" ,VIPLvl = "+this.VIP+",Hunger = "+
-this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",LastPosX = "+this.LastPosX+",LastPosY = "+this.LastPosY+",LastPosZ = "+this.LastPosZ+" WHERE Nume = '"+p+"'");
+this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",LastPosX = "+this.LastPosX+",LastPosY = "+this.LastPosY+",LastPosZ = "+this.LastPosZ+", WantedLevel = "+this.WantedLevel+" WHERE Nume = '"+p+"'");
 	::QuerySQL(DB,"UPDATE Cont SET IP = '"+this.IP+"' WHERE Nume = '"+p+"'");
 }
 
@@ -325,6 +327,7 @@ function Player::UpdateInst()
 	local inst = this.GetInst();
 	inst.Skin = this.Skin;
 	inst.Cash = this.Cash;
+	inst.WantedLevel = this.WantedLevel;
 }
 function Player::Autologin()
 {
@@ -347,4 +350,18 @@ function Player::RefreshIP()
 		this.IP = ::GetSQLColumnData(q,0);
 		::FreeSQLQuery(q);
 	}
+}
+function Player::PasswordChange(newpass)
+{
+	local n = ::escapeSQLString(this.Name);
+	if(newpass != null)
+	{
+		if(this.Logged) 
+		{
+			::QuerySQL(DB,"UPDATE Cont SET Parola = '"+::escapeSQLString(newpass)+"' WHERE Nume= '"+n+"'");
+			return 0;
+		}
+		return 1;
+	}
+	return 2;
 }
