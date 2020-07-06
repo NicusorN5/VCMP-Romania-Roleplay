@@ -153,6 +153,12 @@ function Player::SaveStats()
 this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",LastPosX = "+this.LastPosX+",LastPosY = "+this.LastPosY+",LastPosZ = "+this.LastPosZ+" WHERE Nume = '"+p+"'");
 }
 
+
+/*
+
+	FUNCTII MESAJE
+
+*/
 function MSG(romana,engleza)
 {
 	for(local i =0 ; i < 100;i++)
@@ -162,18 +168,6 @@ function MSG(romana,engleza)
 			::PLAYERS[i].Message(romana,engleza);
 		}
 	}
-}
-function Player::Spawn()
-{
-	local p = this.GetInst();
-	p.Pos = Vector(this.LastPosX, this.LastPosY, this.LastPosZ+2);
-	::Message(p.Pos+"")
-	if((p.Pos.x == 0) && (p.Pos.y == 0) && (p.Pos.z == 0)) p.Pos = Vector(-1359.28, -932.029, 20.8931);
-	p.Skin = this.Skin;
-}
-function Player::Quit()
-{
-	this.SaveStats();
 }
 function MSGPLR(romana,engleza,plr)
 {
@@ -290,4 +284,42 @@ function Player::GetHunterRankRO()
 	if(this.CopSkill >= 300 && this.CopSkill <= 400) return "Rege al savanei";
 	if(this.CopSkill >= 400 && this.CopSkill <= 500) return "Rege al junglei";
 	if(this.CopSkill >= 500) return "Rege al naturii";
+}
+
+/*
+
+	FUNCTII LEGATE DE EVENIMENTELE VCMP
+
+*/
+
+function Player::Spawn()
+{
+	local p = this.GetInst();
+	p.Pos = Vector(this.LastPosX, this.LastPosY, this.LastPosZ+2);
+	::Message(p.Pos+"")
+	if((p.Pos.x == 0) && (p.Pos.y == 0) && (p.Pos.z == 0)) p.Pos = Vector(-1359.28, -932.029, 20.8931);
+	p.Skin = this.Skin;
+}
+function Player::Quit()
+{
+	this.SaveStats();
+}
+
+/*
+	ALTE CHESTII
+*/
+function Player::Buy(value)
+{
+	if(this.Cash > value)
+	{
+		this.Cash -= value;
+		return true;
+	}
+	else return false;
+}
+function Player::UpdateInst()
+{
+	local inst = this.GetInst();
+	inst.Skin = this.Skin;
+	inst.Cash = this.Cash;
 }
