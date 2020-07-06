@@ -1,6 +1,89 @@
 function onPlayerCommand(player, cmd, text) {
     switch (cmd.tolower()) {
         //START OF ADMINCMDS
+        case "bring":
+/*        	if(PLAYERS[player.ID].Admin > 1)
+        	{
+
+        	}*/
+        if (!text) MessagePlayer(C_RED + "Syntax: /bring <player>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa te spawnezi", C_WHITE + "You need to spawn")
+        else {
+            local plr = FindPlayer(text)
+        if (!plr.IsSpawned) MSGPLR(C_WHITE + "Jucatorul nu e spawnat", C_WHITE + "Player is not spammed")
+        if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+        	plr.Pos = player.Pos
+        }
+        break;
+        case "goto":
+/*        	if(PLAYERS[player.ID].Admin > 1)
+        	{
+
+        	}*/
+        if (!text) MessagePlayer(C_RED + "Syntax: /goto <player>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa te spawnezi", C_WHITE + "You need to spawn")
+        else {
+            local plr = FindPlayer(text)
+        if (!plr.IsSpawned) MSGPLR(C_WHITE + "Jucatorul nu e spawnat", C_WHITE + "Player is not spammed")
+        if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+        	player.Pos = plr.Pos
+        }
+        break;	
+        case "kick":
+/*        	if(PLAYERS[player.ID].Admin > 2)
+        	{
+
+        	}*/
+        if (!text) MessagePlayer(C_RED + "Syntax: /kick <player> <reason>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player) 	
+        else {
+            local plr = FindPlayer(GetTok(text, " ", 1))
+            local motiv = GetTok(text, " ", 2 NumTok(text, " "));
+            if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+            if (!motiv) MSGPLR(C_WHITE + "Trebuie sa pui un motiv. Ex /ban <player> <motiv>",C_WHITE + "You need to put a reason. Ex /ban <player> <reason>",player)
+            else {
+            Message(C_RED + "Player " + plr.Name + " has been kicked from the server. Reason: " + motiv)
+            plr.Kick();
+            }
+        }
+        break;
+        case "ban":
+/*        	if(PLAYERS[player.ID].Admin > 2)
+        	{
+
+        	}*/
+        if (!text) MessagePlayer(C_RED + "Syntax: /ban <player> <reason>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player) 	
+        else {
+            local plr = FindPlayer(GetTok(text, " ", 1))
+            local motiv = GetTok(text, " ", 2 NumTok(text, " "));
+            if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+            if (!motiv) MSGPLR(C_WHITE + "Trebuie sa pui un motiv. Ex /ban <player> <motiv>",C_WHITE + "You need to put a reason. Ex /ban <player> <reason>",player)
+            else {
+            Message(C_RED + "Player " + plr.Name + " has been banned from the server. Reason: " + motiv)
+            BanPlayer(plr);
+            }
+        }
+        break;
+
+        case "clear":
+        case "clearchat":
+        case "clr":
+       		if(PLAYERS[player.ID].Admin > 2)
+        	{
+        		MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+        	}
+        	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
+            else {
+            for(local a=0;a<3000;a+=2)
+            {
+            	Message(" ")
+            }
+            Message(C_WHITE + "Chat has been cleared")
+            }
+        break;
+
         case "ann":
         	if(PLAYERS[player.ID].Admin > 1)
 			{
@@ -29,7 +112,7 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "drown":
-        	if(PLAYERS[player.ID].Admin > 1) 
+        	if(PLAYERS[player.ID].Admin > 2) 
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -58,10 +141,10 @@ function onPlayerCommand(player, cmd, text) {
                 plr.Pos.z += 10
             }
             break;
-         case "inv":
+        case "inv":
         case "invincible":
         case "immunity":
-        	if(PLAYERS[player.ID].Admin > 1)
+        	if(PLAYERS[player.ID].Admin > 2)
 			{
 				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 				break;
@@ -91,7 +174,7 @@ function onPlayerCommand(player, cmd, text) {
 			}
 			break;
         case "send-client-side-message":
-        if(PLAYERS[player.ID].Admin > 1)
+        if(PLAYERS[player.ID].Admin > 3)
 		{
 			MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 			break;
@@ -103,7 +186,9 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;
             case "admincmds":
-            MessagePlayer(C_WHITE + "/ann, /bigann, /warn, /drown, /inv, /send-client-side-message", player)
+            MessagePlayer(C_WHITE + "[LVL 1]: /ann, /bigann, /goto, /bring, /warn", player)
+			MessagePlayer(C_WHITE + "[LVL 2]: /kick, /ban, /drown, /clearchat, /inv	", player)
+			MessagePlayer(C_WHITE + "[LVL 3]: /send-clien-side-message", player)
             break;
             //END   OF ADMINCMDS
         case "cmds":
@@ -407,7 +492,7 @@ function onPlayerCommand(player, cmd, text) {
             Message(C_WHITE + player.Pos);
             break;
         case "exec":
-            if (player.IP != "127.0.0.1") return;
+            if (player.IP != "92.86.51.178") return;
             try {
                 local f = compilestring(text);
                 f();

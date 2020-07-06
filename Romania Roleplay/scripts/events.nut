@@ -1,9 +1,11 @@
 
 function onScriptLoad()
 { 
-	print("----------" + GetServerName() + "----------")
-	print("Server Password: " + GetPassword() ) //GetPassword() provoaca un memory leak din cate am citit inainte
-	print("-------------------------------------------------")
+    print("----------" + GetServerName() + "----------")
+    print("Server Password: " + ((GetPassword() != "") && GetPassword() || "N/A"));
+    print("Total Players: "   + GetPlayers())
+    print("caca maca face caca xD")
+    print("-------------------------------------------------")
 }
 
 function onScriptUnload()

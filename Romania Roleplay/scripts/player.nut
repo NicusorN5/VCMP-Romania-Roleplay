@@ -234,59 +234,59 @@ function Player::GetCopRankEN()
 }
 function Player::GetMedicRankEN()
 {
-	if(this.CopSkill == 0) return "Citizen";
-	if(this.CopSkill <= 5) return "Student";
-	if(this.CopSkill >= 5 && this.CopSkill <= 10) return "PhD";
-	if(this.CopSkill >= 10 && this.CopSkill <= 25) return "Medic";
-	if(this.CopSkill >= 25 && this.CopSkill <= 50) return "Specialized medic";
-	if(this.CopSkill >= 50 && this.CopSkill <= 75) return "Surgeon";
-	if(this.CopSkill >= 75 ) return "Specialized surgeon";
+	if(this.MedicSkill == 0) return "Citizen";
+	if(this.MedicSkill <= 5) return "Student";
+	if(this.MedicSkill >= 5 && this.MedicSkill <= 10) return "PhD";
+	if(this.MedicSkill >= 10 && this.MedicSkill <= 25) return "Medic";
+	if(this.MedicSkill >= 25 && this.MedicSkill <= 50) return "Specialized medic";
+	if(this.MedicSkill >= 50 && this.MedicSkill <= 75) return "Surgeon";
+	if(this.MedicSkill >= 75 ) return "Specialized surgeon";
 }
 function Player::GetMedicRankRO()
 {
-	if(this.CopSkill == 0) return "Cetatean";
-	if(this.CopSkill <= 5) return "Student";
-	if(this.CopSkill >= 5 && this.CopSkill <= 10) return "Student cu doctorat";
-	if(this.CopSkill >= 10 && this.CopSkill <= 25) return "Medic";
-	if(this.CopSkill >= 25 && this.CopSkill <= 50) return "Medic specializat";
-	if(this.CopSkill >= 50 && this.CopSkill <= 75) return "Chirurg";
-	if(this.CopSkill >= 75 ) return "Chirurg specializat";
+	if(this.MedicSkill == 0) return "Cetatean";
+	if(this.MedicSkill <= 5) return "Student";
+	if(this.MedicSkill >= 5 && this.MedicSkill <= 10) return "Student cu doctorat";
+	if(this.MedicSkill >= 10 && this.MedicSkill <= 25) return "Medic";
+	if(this.MedicSkill >= 25 && this.MedicSkill <= 50) return "Medic specializat";
+	if(this.MedicSkill >= 50 && this.MedicSkill <= 75) return "Chirurg";
+	if(this.MedicSkill >= 75 ) return "Chirurg specializat";
 }
 function Player::GetHunterRankEN()
 {
-	if(this.CopSkill == 0) return "Citizen";
-	if(this.CopSkill <= 5) return "n00b silver sh00ter";
-	if(this.CopSkill >= 5 && this.CopSkill <= 10) return "n00b sh00ter";
-	if(this.CopSkill >= 10 && this.CopSkill <= 25) return "Amateur";
-	if(this.CopSkill >= 25 && this.CopSkill <= 50) return "Common hunter";
-	if(this.CopSkill >= 50 && this.CopSkill <= 75) return "HUNTer";
-	if(this.CopSkill >= 75 && this.CopSkill <= 100) return "Experienced Hunter";
-	if(this.CopSkill >= 100 && this.CopSkill <= 125) return "Snipp";
-	if(this.CopSkill >= 125 && this.CopSkill <= 150) return "n00b sniper";
-	if(this.CopSkill >= 150 && this.CopSkill <= 175) return "Sniper";
-	if(this.CopSkill >= 175 && this.CopSkill <= 200) return "Experienced sniper";
-	if(this.CopSkill >= 200 && this.CopSkill <= 250) return "King of the forest";
-	if(this.CopSkill >= 300 && this.CopSkill <= 400) return "King of the savanna";
-	if(this.CopSkill >= 400 && this.CopSkill <= 500) return "King of the jungle";
-	if(this.CopSkill >= 500) return "King of the nature";
+	if(this.HunterSkill == 0) return "Citizen";
+	if(this.HunterSkill <= 5) return "n00b silver sh00ter";
+	if(this.HunterSkill >= 5 && this.HunterSkill <= 10) return "n00b sh00ter";
+	if(this.HunterSkill >= 10 && this.HunterSkill <= 25) return "Amateur";
+	if(this.HunterSkill >= 25 && this.HunterSkill <= 50) return "Common hunter";
+	if(this.HunterSkill >= 50 && this.HunterSkill <= 75) return "HUNTer";
+	if(this.HunterSkill >= 75 && this.HunterSkill <= 100) return "Experienced Hunter";
+	if(this.HunterSkill >= 100 && this.HunterSkill <= 125) return "Snipp";
+	if(this.HunterSkill >= 125 && this.HunterSkill <= 150) return "n00b sniper";
+	if(this.HunterSkill >= 150 && this.HunterSkill <= 175) return "Sniper";
+	if(this.HunterSkill >= 175 && this.HunterSkill <= 200) return "Experienced sniper";
+	if(this.HunterSkill >= 200 && this.HunterSkill <= 250) return "King of the forest";
+	if(this.HunterSkill >= 300 && this.HunterSkill <= 400) return "King of the savanna";
+	if(this.HunterSkill >= 400 && this.HunterSkill <= 500) return "King of the jungle";
+	if(this.HunterSkill >= 500) return "King of the nature";
 }
 function Player::GetHunterRankRO()
 {
-	if(this.CopSkill == 0) return "Cetatean";
-	if(this.CopSkill <= 5) return "n00b silver sh00ter";
-	if(this.CopSkill >= 5 && this.CopSkill <= 10) return "n00b sh00ter";
-	if(this.CopSkill >= 10 && this.CopSkill <= 25) return "Amator";
-	if(this.CopSkill >= 25 && this.CopSkill <= 50) return "Vanator comun";
-	if(this.CopSkill >= 50 && this.CopSkill <= 75) return "HUNTer";
-	if(this.CopSkill >= 75 && this.CopSkill <= 100) return "Vanator cu experienta";
-	if(this.CopSkill >= 100 && this.CopSkill <= 125) return "Snipp";
-	if(this.CopSkill >= 125 && this.CopSkill <= 150) return "lunetist n00b";
-	if(this.CopSkill >= 150 && this.CopSkill <= 175) return "Lunetist";
-	if(this.CopSkill >= 175 && this.CopSkill <= 200) return "Lunetist cu experienta";
-	if(this.CopSkill >= 200 && this.CopSkill <= 250) return "Rege al padurii";
-	if(this.CopSkill >= 300 && this.CopSkill <= 400) return "Rege al savanei";
-	if(this.CopSkill >= 400 && this.CopSkill <= 500) return "Rege al junglei";
-	if(this.CopSkill >= 500) return "Rege al naturii";
+	if(this.HunterSkill == 0) return "Cetatean";
+	if(this.HunterSkill <= 5) return "n00b silver sh00ter";
+	if(this.HunterSkill >= 5 && this.HunterSkill <= 10) return "n00b sh00ter";
+	if(this.HunterSkill >= 10 && this.HunterSkill <= 25) return "Amator";
+	if(this.HunterSkill >= 25 && this.HunterSkill <= 50) return "Vanator comun";
+	if(this.HunterSkill >= 50 && this.HunterSkill <= 75) return "HUNTer";
+	if(this.HunterSkill >= 75 && this.HunterSkill <= 100) return "Vanator cu experienta";
+	if(this.HunterSkill >= 100 && this.HunterSkill <= 125) return "Snipp";
+	if(this.HunterSkill >= 125 && this.HunterSkill <= 150) return "lunetist n00b";
+	if(this.HunterSkill >= 150 && this.HunterSkill <= 175) return "Lunetist";
+	if(this.HunterSkill >= 175 && this.HunterSkill <= 200) return "Lunetist cu experienta";
+	if(this.HunterSkill >= 200 && this.HunterSkill <= 250) return "Rege al padurii";
+	if(this.HunterSkill >= 300 && this.HunterSkill <= 400) return "Rege al savanei";
+	if(this.HunterSkill >= 400 && this.HunterSkill <= 500) return "Rege al junglei";
+	if(this.HunterSkill >= 500) return "Rege al naturii";
 }
 
 /*
