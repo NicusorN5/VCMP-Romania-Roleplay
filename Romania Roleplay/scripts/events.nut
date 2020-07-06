@@ -14,10 +14,13 @@ function onScriptUnload()
 
 function onPlayerJoin( player )
 {
+    //SetCinematicBorder(player, true);
 	PLAYERS[player.ID] = Player(player.ID);
 	PLAYERS[player.ID].Load();
     local country = IpToCountry(player.IP);
-    Message("[#00ff00]Player " + player.Name + " has joined the server ( " + country + " )")
+    Message(C_GREEN+ "" + player.Name + " has joined the server from " + country + " ( " + country + " ) ");
+    MSGPLR(C_WHITE + "Bine ai venit in [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay ( " + country + " )", "[#FFFFFF]Welcome to [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay [#FFFFFF] (" + timez("gmt") + " )", player)
+    MSGPLR(C_WHITE + "Foloseste [#FF0000]/help [#FFFFFF]pentru mai multe","" + C_WHITE + "Use [#FF0000]/help [#FFFFFF]if you want more", player)
     CreateRadioStream(15, "Taraf", "http://manele.radiotaraf.ro:7100", true);
     CreateRadioStream(16, "Antena Satelor", "http://stream2.srr.ro:8042", true);
     CreateRadioStream(17, "Romania Actualitati", "http://stream2.srr.ro:8002", true);
@@ -49,15 +52,16 @@ function onPlayerRequestSpawn( player )
     if(PLAYERS[player.ID].Logged == false)
     {
         if(PLAYERS[player.ID].GetPassword() == null) MSGPLR(C_RED+"Trebuie sa te inregistrezi ca sa continui.",C_RED+"You must register to continue.",player);
-        else MSGPLR(C_GREEN+"logheaza-te pe contul tau cu /login <parola> pentru a continua.",C_GREEN+"Please login to your account with /login <password> in order to continue..",player);
+        else MSGPLR(C_RED+"logheaza-te pe contul tau cu /login <parola> pentru a continua.",C_GREEN+"Please login to your account with /login <password> in order to continue..",player);
         return 0;
     }
-    return 1;   
+    return 1;
 }
 
 function onPlayerSpawn( player )
 {
-	PLAYERS[player.ID].Spawn();
+    //SetCinematicBorder(player, false);
+	PLAYERS[player.ID].Spawn(); 
     player.Colour = RGB( rand()%255,rand()%255,rand()%255 )
 }
 
@@ -78,7 +82,7 @@ function onPlayerTeamKill( player, killer, reason, bodypart )
 
 function onPlayerChat(player, text)
 {     
-    Message("[#ffffff][" + player.ID + "] " + PlrColToStrHex(player) + "" + player.Name + "[#ffffff]: " + text + "")
+    Message(C_WHITE + "[" + player.ID + "] " + PlrColToStrHex(player) + "" + player.Name + "[#ffffff]: " + text + "")
     print("[" + player.ID + "] " + player.Name + " " + text);
 }
 

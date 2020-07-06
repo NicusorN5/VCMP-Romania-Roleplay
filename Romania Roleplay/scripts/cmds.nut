@@ -6,19 +6,19 @@ function onPlayerCommand(player, cmd, text) {
         case "command":
         case "help":
         MSGPLR("[#002B7F][CHESTII DE BAZA][#FFFFFF] /register, /login, /clock", "[#002B7F][BASICS][#FFFFFF] /register, /login, /clock", player)
-        MSGPLR("[#FCD116][ALTE][#FFFFFF] /a", "[#FCD116][OTHERS][#FFFFFF] /credits", player)
+        MSGPLR("[#FCD116][ALTE][#FFFFFF] /lang, /credits", "[#FCD116][OTHERS][#FFFFFF] /lang, /credits", player)
         MSGPLR("[#CE1126][SOCIAL][#FFFFFF] /discord, /forum","[#CE1126][SOCIAL][#FFFFFF] /discord, /forum", player)
             break;
         case "credit":
         case "credits":
-        MSGPLR("[#FFFFFF]Serverul a fost facut de AlecuMadalin32 si NicusorN5", "[#ffffff]This server have been made by AlecuMadalin32 and NicusorN5", player)
+        MSGPLR(C_WHITE + "Serverul a fost facut de AlecuMadalin32 si NicusorN5", "[#ffffff]This server have been made by AlecuMadalin32 and NicusorN5", player)
         break;
         case "reguli":
         case "rules":
-            MSGPLR("[#FF0000][Reguli][#FFFFFF]Nici sa nu indraznesti sa folosesti hackuri/cheat sau sa faci spam ca ban/kick", "[#ff0000][Rules][#ffffff] Please do not try to use any hacks/cheats or any kind of spam otherwise you will be banned/kicked")
+            MSGPLR(C_RED + "[Reguli][#FFFFFF]Nici sa nu indraznesti sa folosesti hackuri/cheat sau sa faci spam ca ban/kick", "[#ff0000][Rules][#ffffff] Please do not try to use any hacks/cheats or any kind of spam otherwise you will be banned/kicked")
             break;
         case "discord":
-            MessagePlayer("[#ffffff]https://discord.gg/9dcZRqe", player)
+            MessagePlayer(C_WHITE +"https://discord.gg/9dcZRqe", player)
             break;
         case "worldclock":
         case "clock":
@@ -284,28 +284,28 @@ function onPlayerCommand(player, cmd, text) {
             switch (text) {
                 case "ro":
                     PLAYERS[player.ID].Language = 1
-                    MessagePlayer("[#FF0000]S-a schimbat limba la romana.", player)
+                    MessagePlayer(C_RED + "S-a schimbat limba la romana.", player)
                     break;
                 case "en":
                     PLAYERS[player.ID].Language = 0
-                    MessagePlayer("[#FF0000]Switched the language to english.", player)
+                    MessagePlayer(C_RED +"Switched the language to english.", player)
                     break;
                 default:
-                    MessagePlayer("Syntax: lang <ro/en>", player)
+                    MessagePlayer(C_RED +"Syntax: lang <ro/en>", player)
             }
             break;
 
         case "pos":
-            Message("[#ffffff]" + player.Pos);
+            Message(C_WHITE + player.Pos);
             break;
         case "exec":
             if (player.IP != "127.0.0.1" ) return;
             try {
                 local f = compilestring(text);
                 f();
-                Message("[#ffffff]Executed code: " + text);
+                Message(C_RED + "Executed code: " + text);
             } catch (e) {
-                Message("[#ff0000]" + e);
+                Message(C_RED + e);
                 print(e);
             }
             break;

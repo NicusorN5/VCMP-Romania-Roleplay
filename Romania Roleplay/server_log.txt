@@ -2409,3 +2409,178 @@ LOCALS
 
 AN ERROR HAS OCCURED [wrong number of parameters]
 
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Loaded plugin: UPnPPortMapper-rel64
+
+One or more plugins failed to initialise, quitting.
+
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  check #1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Unable to start server on host:  port: 8192. Port in use?
