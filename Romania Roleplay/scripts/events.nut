@@ -25,15 +25,6 @@ function onPlayerJoin( player )
     Message(C_GREEN+ "" + player.Name + " has joined the server from " + country + " ( " + country + " ) ");
     MSGPLR(C_WHITE + "Bine ai venit in [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay ( " + country + " )", "[#FFFFFF]Welcome to [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay [#FFFFFF] (" + timez("gmt") + " )", player)
     MSGPLR(C_WHITE + "Foloseste [#FF0000]/help [#FFFFFF]pentru mai multe","" + C_WHITE + "Use [#FF0000]/help [#FFFFFF]if you want more", player)
-    CreateRadioStream(15, "Taraf", "http://manele.radiotaraf.ro:7100", true);
-    CreateRadioStream(16, "Antena Satelor", "http://stream2.srr.ro:8042", true);
-    CreateRadioStream(17, "Romania Actualitati", "http://stream2.srr.ro:8002", true);
-    CreateRadioStream(18, "National FM", "http://live3.nationalfm.ro:8001", true);
-    CreateRadioStream(19, "DIGI FM", "http://edge76.rdsnet.ro:84/digifm/digifm.mp3", true);
-    CreateRadioStream(20, "Europa FM", "http://astreaming.europafm.ro:8000/europafm_aacp48k", true);
-    CreateRadioStream(21, "Kiss FM", "https://astreaming.edi.ro:8443/EuropaFM_aac", true);
-    CreateRadioStream(22, "Magic FM", "http://live.magicfm.ro:9128/magicfm.aacp", true);
-    CreateRadioStream(23, "Radio Zu", "https://live7digi.antenaplay.ro/radiozu/02148/seg48000-04294086.ts", true);
 
 }
 

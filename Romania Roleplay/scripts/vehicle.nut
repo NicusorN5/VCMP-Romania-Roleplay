@@ -91,3 +91,27 @@ function Car::SaveStats()
 {
 	
 }
+function Car::Spawn()
+{
+	local inst = this.GetInst();
+	inst.Pos.x = this.SpawnPosX;
+	inst.Pos.y = this.SpawnPosY;
+	inst.Pos.z = this.SpawnPosZ;
+	inst.Rotation.x = this.SpawnQuaternionX;
+	inst.Rotation.y = this.SpawnQuaternionY;
+	inst.Rotation.z = this.SpawnQuaternionZ;
+	inst.Rotation.w = this.SpawnQuaternionW;
+	inst.Colour1 = this.Color1;
+	inst.Colour2 = this.Color2;
+}
+function Car::SetColors(c1,c2)
+{
+	local inst = this.GetInst();
+	inst.Colour1 = c1;
+	inst.Colour2 = c2;
+	this.Color1 = c1;
+	this.Color2 = c2;
+	//perhaps use:
+	//this.Color1 = inst.Colour1 = c1; ?
+	//this.Color2 = inst.Colour2 = c2; ?
+}

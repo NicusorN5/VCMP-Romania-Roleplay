@@ -2,7 +2,11 @@ function onPlayerCommand(player, cmd, text) {
     switch (cmd.tolower()) {
         //START OF ADMINCMDS
         case "ann":
-        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if(PLAYERS[player.ID].Admin > 1)
+			{
+				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+			}
         	if (!text) MessagePlayer(C_RED + "Syntax: /ann <text>", player)
         	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
@@ -13,7 +17,11 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "bigann":
-        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if(PLAYERS[player.ID].Admin > 1) 
+			{
+				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+			}
             if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
             if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
@@ -21,7 +29,11 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "drown":
-        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if(PLAYERS[player.ID].Admin > 1) 
+			{
+				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+			}
             if (!text) MessagePlayer(C_RED + "Syntax: /drown <player>", player)
             if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
@@ -32,7 +44,11 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "warn":
-        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if(PLAYERS[player.ID].Admin > 1)
+			{
+				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+			}
             if (!text) MessagePlayer(C_RED + "Syntax: /warn <player>", player)
             if (!player.IsSpawned) MSGPLR("Trebuie sa fi spawnat","You need to be spawned",player)
             else {
@@ -42,36 +58,44 @@ function onPlayerCommand(player, cmd, text) {
                 plr.Pos.z += 10
             }
             break;
-        /* case "inv":
+         case "inv":
         case "invincible":
         case "immunity":
-        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if(PLAYERS[player.ID].Admin > 1)
+			{
+				MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+				break;
+			}
         	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player)
         	else {
-            switch (text) {
-                case "on":
-                    if (!player.Immunity) {
-                        player.Immunity = -1
-                        MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.",player)
-                    } else {
-                        MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on",player)
-                    }
-                    break;
-                case "off":
-                    if (!player.Immunity) {
-                        player.Immunity = 0
-                        MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.",player)
-                    } else {
-                        MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off",player)
-                    }
-                    break;
-                default:
-                    MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
-            }
-        }
-            break;*/ //are un mare fuckup
+				switch (text) {
+					case "on":
+						if (!player.Immunity) {
+							player.Immunity = -1
+							MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.",player)
+						} else {
+							MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on",player)
+						}
+						break;
+					case "off":
+						if (!player.Immunity) {
+							player.Immunity = 0
+							MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.",player)
+						} else {
+							MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off",player)
+						}
+						break;
+					default:
+						MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
+				}
+			}
+			break;
         case "send-client-side-message":
-        //if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        if(PLAYERS[player.ID].Admin > 1)
+		{
+			MSGPLR("Trebuie sa fi admin","You need to be admin",player);
+			break;
+		}
         if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <text>", player)
         if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player)
         else {

@@ -142,6 +142,7 @@ function Player::Load()
 		this.LastPosZ = ::GetSQLColumnData(q,24);
 		::FreeSQLQuery(q);
 	}
+	this.RefreshIP();
 }
 
 function Player::SaveStats()
@@ -322,4 +323,25 @@ function Player::UpdateInst()
 	local inst = this.GetInst();
 	inst.Skin = this.Skin;
 	inst.Cash = this.Cash;
+}
+function Player::Autologin()
+{
+	local CurrentIP = this.GetInst();
+	this.RefreshIP();
+	if(this.IP == CurrentIP)
+	{
+		this.Logged = true;
+		return true;
+	}
+	return false;
+}
+function Player::RefreshIP()
+{
+	local n = ::escapeSQLString(this.Nume);
+	local q = ::QuerySQL(DB,"SELECT IP FROM Cont WHERE Nume = '"+n+"'");
+	if(q)
+	{
+		this.IP = ::GetSQLColumnData(q,1);
+		::FreeSQLQuery(q);
+	}
 }
