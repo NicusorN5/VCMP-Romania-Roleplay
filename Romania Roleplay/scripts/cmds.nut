@@ -51,7 +51,7 @@ function onPlayerCommand(player, cmd, text) {
             }
             if (PLAYERS[player.ID].Login(text)) {
                 MSG(C_GREEN + player + " sa logat!", C_GREEN + player + " just logged in!");
-                MSGPLR(C_GREEN + "Bine ai venit, " + player.Name + " ( " + timez("gmt") + " )", C_GREEN + "Welcome, " + player.Name + " ( " + timez("gmt") + " )", player)
+                MSGPLR(C_WHITE + "Bine ai venit, " + player.Name + " ( " + timez("gmt") + " )", C_WHITE + "Welcome, " + player.Name + " ( " + timez("gmt") + " )", player)
             } else {
                 if (PLAYERS[player.ID].LoginAttempts > 5) {
                     MSG(C_RED + "Oops, " + player.Name + " si-a uitat parola!", C_RED + "Oops, " + player.Name + " forgot his password!");
