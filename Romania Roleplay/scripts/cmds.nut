@@ -3,7 +3,7 @@ function onPlayerCommand(player, cmd, text) {
         //START OF ADMINCMDS
         case "ann":
         	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
-        	if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
+        	if (!text) MessagePlayer(C_RED + "Syntax: /ann <text>", player)
         	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 Message(C_RED + "/////////////////////ANNOUNCE///////////////////////")
@@ -14,7 +14,7 @@ function onPlayerCommand(player, cmd, text) {
             break;
         case "bigann":
         	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
-            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
             if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 AnnounceAll(text, 3)
@@ -22,7 +22,7 @@ function onPlayerCommand(player, cmd, text) {
             break;
         case "drown":
         	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
-            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!text) MessagePlayer(C_RED + "Syntax: /drown <player>", player)
             if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 local plr = FindPlayer(text)
@@ -33,7 +33,7 @@ function onPlayerCommand(player, cmd, text) {
             break;
         case "warn":
         	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
-            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!text) MessagePlayer(C_RED + "Syntax: /warn <player>", player)
             if (!player.IsSpawned) MSGPLR("Trebuie sa fi spawnat","You need to be spawned",player)
             else {
                 local plr = FindPlayer(text)
@@ -42,7 +42,7 @@ function onPlayerCommand(player, cmd, text) {
                 plr.Pos.z += 10
             }
             break;
-        case "inv":
+        /* case "inv":
         case "invincible":
         case "immunity":
         	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
@@ -69,7 +69,7 @@ function onPlayerCommand(player, cmd, text) {
                     MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
             }
         }
-            break;
+            break;*/ //are un mare fuckup
         case "send-client-side-message":
         //if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
         if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <text>", player)
