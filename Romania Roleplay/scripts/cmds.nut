@@ -2,7 +2,9 @@ function onPlayerCommand(player, cmd, text) {
     switch (cmd.tolower()) {
         //START OF ADMINCMDS
         case "ann":
-            if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
+        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if (!text) MessagePlayer(C_RED + "Syntax: /bigann <text>", player)
+        	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 Message(C_RED + "/////////////////////ANNOUNCE///////////////////////")
                 Message(C_WHITE + text)
@@ -11,55 +13,67 @@ function onPlayerCommand(player, cmd, text) {
             }
             break;
         case "bigann":
+        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
             if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 AnnounceAll(text, 3)
             }
             break;
         case "drown":
+        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
             if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat",C_WHITE + "You need to be spawned",player)
             else {
                 local plr = FindPlayer(text)
-                Message(C_RED + "Player " + plr.Name + " has been warned by " + player.Name)
-                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost inecat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been drowned by " + player.Name + "")
+                if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost inecat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been drowned by " + player.Name + "",player)
                 plr.Pos = Vector(-2350, -1950, 5.25654)
             }
             break;
         case "warn":
+        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
             if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            if (!player.IsSpawned) MSGPLR("Trebuie sa fi spawnat","You need to be spawned",player)
             else {
                 local plr = FindPlayer(text)
-                Message(C_RED + "Player " + plr.Name + " has been warned by " + player.Name)
-                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost avertizat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been warned by " + player.Name + "")
+                if (!plr) MSGPLR(C_WHITE + "Jucatorul nu e online/inexistent",C_WHITE + "Player is not online/inexistent",player)
+                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost avertizat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been warned by " + player.Name + "",player)
                 plr.Pos.z += 10
             }
             break;
         case "inv":
         case "invincible":
         case "immunity":
+        	//if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
+        	if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player)
+        	else {
             switch (text) {
                 case "on":
                     if (!player.Immunity) {
                         player.Immunity = -1
-                        MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.")
+                        MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.",player)
                     } else {
-                        MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on")
+                        MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on",player)
                     }
                     break;
                 case "off":
                     if (!player.Immunity) {
                         player.Immunity = 0
-                        MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.")
+                        MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.",player)
                     } else {
-                        MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off")
+                        MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off",player)
                     }
                     break;
                 default:
                     MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
             }
+        }
             break;
         case "send-client-side-message":
+        //if(PLAYERS[player.ID].Admin > 1) MSGPLR("Trebuie sa fi admin","You need to be admin",player)
         if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <text>", player)
+        if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player)
         else {
             print("client-side-message >> " + text)
         }
