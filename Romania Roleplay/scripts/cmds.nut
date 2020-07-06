@@ -16,7 +16,15 @@ function onPlayerCommand(player, cmd, text) {
                 AnnounceAll(text, 3)
             }
             break;
-
+        case "drown":
+            if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
+            else {
+                local plr = FindPlayer(text)
+                Message(C_RED + "Player " + plr.Name + " has been warned by " + player.Name)
+                MSGPLR(C_RED + "Playerul " + plr.Name + " a fost inecat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been drowned by " + player.Name + "")
+                plr.Pos = Vector(-2350, -1950, 5.25654)
+            }
+            break;
         case "warn":
             if (!text) MessagePlayer(C_RED + "Syntax: bigann <text>", player)
             else {
@@ -24,7 +32,6 @@ function onPlayerCommand(player, cmd, text) {
                 Message(C_RED + "Player " + plr.Name + " has been warned by " + player.Name)
                 MSGPLR(C_RED + "Playerul " + plr.Name + " a fost avertizat de catre " + player.Name + "", C_RED + "Player " + plr.Name + " has been warned by " + player.Name + "")
                 plr.Pos.z += 10
-                //plr.Pos = Vector(-2350, -1950, 5.25654)
             }
             break;
         case "inv":
@@ -51,7 +58,9 @@ function onPlayerCommand(player, cmd, text) {
                     MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
             }
             break;
-            
+            case "admincmds":
+            MessagePlayer(C_WHITE + "/ann, /bigann, /warn, /drown, /inv", player)
+            break;
             //END   OF ADMINCMDS
         case "cmds":
         case "cmd":
