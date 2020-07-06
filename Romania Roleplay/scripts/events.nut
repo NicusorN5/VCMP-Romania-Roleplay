@@ -2,9 +2,7 @@
 function onScriptLoad()
 { 
 	print("----------" + GetServerName() + "----------")
-	print("Server Password: " + GetPassword() )
-	print("Total Players: "   + GetPlayers())
-	print("caca maca face caca xD")
+	print("Server Password: " + GetPassword() ) //GetPassword() provoaca un memory leak din cate am citit inainte
 	print("-------------------------------------------------")
 }
 
@@ -22,10 +20,14 @@ function onPlayerJoin( player )
 	PLAYERS[player.ID] = Player(player.ID);
 	PLAYERS[player.ID].Load();
     local country = IpToCountry(player.IP);
-    Message(C_GREEN+ "" + player.Name + " has joined the server from " + country + " ( " + country + " ) ");
-    MSGPLR(C_WHITE + "Bine ai venit in [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay ( " + country + " )", "[#FFFFFF]Welcome to [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay [#FFFFFF] (" + timez("gmt") + " )", player)
+    MSG(C_GREEN+player.Name+" a intrat in server din "+country,C_GREEN+ "" + player.Name + " has joined the server from " + country + " ( " + country + " ) ");
+    MSGPLR(C_WHITE + "Bine ai venit in [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay (" + timez("gmt") + " )", "[#FFFFFF]Welcome to [#002B7F]VCMP [#FCD116]Romania [#CE1126]Roleplay [#FFFFFF] (" + timez("gmt") + " )", player)
     MSGPLR(C_WHITE + "Foloseste [#FF0000]/help [#FFFFFF]pentru mai multe","" + C_WHITE + "Use [#FF0000]/help [#FFFFFF]if you want more", player)
-
+	if(PLAYERS[player.ID].Autologin() == true)
+	{
+		MSGPLR(C_GREEN+"Ai fost autologat",C_GREEN+"Autologged",player);
+		player.Spawn();
+	}
 }
 
 function onPlayerPart( player, reason )

@@ -47,6 +47,7 @@ class Player
 	SpamMessages = 0;
 	Logged = false;
 	LoginAttempts = 0;
+	IP = null;
 }
 //Functii interene
 function Player::GetInst()
@@ -152,6 +153,7 @@ function Player::SaveStats()
 "RobSkill = "+this.RobSkill+" ,CopSkill = "+this.CopSkill+" ,MedicSkill = "+this.MedicSkill+" ,FiremanSkill = "+this.FiremanSkill+",HunterSkill = "+this.HunterSkill+" ,BankGuardSkill = "+this.BankGuardSkill+",TruckerSkill = "+this.TruckerSkill+" ,"+
 "TerroristSkill = "+this.TerroristSkill+" ,GangsterSkill = "+this.GangsterSkill+" ,ArmsDealerSkill = "+this.ArmsDealerSkill+",RacesFinished = "+this.RacesFinished+" ,EventsFinished = "+this.EventsFinished+" ,VIPLvl = "+this.VIP+",Hunger = "+
 this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",LastPosX = "+this.LastPosX+",LastPosY = "+this.LastPosY+",LastPosZ = "+this.LastPosZ+" WHERE Nume = '"+p+"'");
+	::QuerySQL(DB,"UPDATE Cont SET IP = '"+this.IP+"' WHERE Nume = '"+p+"'");
 }
 
 
@@ -298,7 +300,7 @@ function Player::Spawn()
 	local p = this.GetInst();
 	p.Pos = Vector(this.LastPosX, this.LastPosY, this.LastPosZ+2);
 	::Message(p.Pos+"")
-	if((p.Pos.x == 0) && (p.Pos.y == 0) && (p.Pos.z == 0)) p.Pos = Vector(-1359.28, -932.029, 20.8931);
+	if((p.Pos.x == 0) && (p.Pos.y == 0) && (p.Pos.z == 2)) p.Pos = Vector(-1359.28, -932.029, 20.8931);
 	p.Skin = this.Skin;
 }
 function Player::Quit()
@@ -326,22 +328,23 @@ function Player::UpdateInst()
 }
 function Player::Autologin()
 {
-	local CurrentIP = this.GetInst();
+	local CurrentIP = this.GetInst().IP;
 	this.RefreshIP();
 	if(this.IP == CurrentIP)
 	{
 		this.Logged = true;
 		return true;
 	}
+	this.IP = CurrentIP;
 	return false;
 }
 function Player::RefreshIP()
 {
-	local n = ::escapeSQLString(this.Nume);
+	local n = ::escapeSQLString(this.Name);
 	local q = ::QuerySQL(DB,"SELECT IP FROM Cont WHERE Nume = '"+n+"'");
 	if(q)
 	{
-		this.IP = ::GetSQLColumnData(q,1);
+		this.IP = ::GetSQLColumnData(q,0);
 		::FreeSQLQuery(q);
 	}
 }
