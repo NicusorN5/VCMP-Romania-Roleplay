@@ -79,7 +79,7 @@ function onPlayerCommand(player, cmd, text) {
         }
         break;
             case "admincmds":
-            MessagePlayer(C_WHITE + "/ann, /bigann, /warn, /drown, /inv", player)
+            MessagePlayer(C_WHITE + "/ann, /bigann, /warn, /drown, /inv, /send-client-side-message", player)
             break;
             //END   OF ADMINCMDS
         case "cmds":
