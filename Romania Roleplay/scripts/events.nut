@@ -1,7 +1,11 @@
 
 function onScriptLoad()
-{
-	print("check #1");
+{ 
+	print("----------" + GetServerName() + "----------")
+	print("Server Password: " + GetPassword() )
+	print("Total Players: "   + GetPlayers())
+	print("caca maca face caca xD")
+	print("-------------------------------------------------")
 }
 
 function onScriptUnload()

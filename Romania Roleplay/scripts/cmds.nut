@@ -58,6 +58,12 @@ function onPlayerCommand(player, cmd, text) {
                     MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
             }
             break;
+        case "send-client-side-message":
+        if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <text>", player)
+        else {
+            print("client-side-message >> " + text)
+        }
+        break;
             case "admincmds":
             MessagePlayer(C_WHITE + "/ann, /bigann, /warn, /drown, /inv", player)
             break;
