@@ -81,6 +81,7 @@ dofile("scripts/cmds.nut")
 dofile("scripts/maps.nut")
 dofile("IPtoCountry.nut")
 dofile("scripts/zombie_survival.nut")
+dofile("scripts/rob_system.nut",true)
 PLAYERS <- array(100,null);
 iptocountry <- ConnectSQL("IpToCountry.db")
 DB <- ConnectSQL( "Database.db" );
@@ -104,3 +105,5 @@ CreateRadioStream(20, "Europa FM", "http://astreaming.europafm.ro:8000/europafm_
 CreateRadioStream(21, "Kiss FM", "https://astreaming.edi.ro:8443/EuropaFM_aac", true);
 CreateRadioStream(22, "Magic FM", "http://live.magicfm.ro:9128/magicfm.aacp", true);
 CreateRadioStream(23, "Radio Zu", "https://live7digi.antenaplay.ro/radiozu/02148/seg48000-04294086.ts", true);
+
+CreateRobPoints();

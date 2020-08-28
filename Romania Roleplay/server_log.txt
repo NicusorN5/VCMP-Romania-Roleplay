@@ -2594,3 +2594,445 @@ Loaded plugin: squirrel04rel64
 Loaded plugin: sqlite04rel64
 
 Unable to start server on host:  port: 8193. Port in use?
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 1
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 1
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [74]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [59]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 1
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'PID' does not exist]
+
+CALLSTACK
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [57]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[i] 2
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'PID' does not exist]
+
+CALLSTACK
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [57]
+*FUNCTION [onPickupPickedUp()] scripts/[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 1
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'instance' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [Rob()] scripts/rob_system.nut line [77]
+*FUNCTION [RobPointPickup()] scripts/rob_system.nut line [61]
+*FUNCTION [onPickupPickedUp()] scripts/events.nut line [203]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[i] 0
+[player] INSTANCE
+[pickup] INSTANCE
+[this] TABLE
+[pickup] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [0] AlecuMadalin32 functioneste
+
+AN ER[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+[SCRIPT]  parameter 1 has an invalid type 'null' ; expected: 'string'
+[SCRIPT]  [0] Athanatos ce dreq faci
+[SCRIPT]  [1] xFreezyHD  ba
+[SCRIPT]  [0] Athanatos XD
+[SCRIPT]  [1] xFreezyHD pune un audi sau bmw pe asta cu flacari
+[SCRIPT]  parameter 1 has an invalid type 'null' ; expected: 'string'
+[SCRIPT]  No overload matching this argument list found
+[SCRIPT]  [1] xFreezyHD *> Athanatos disconnected. <*
+[SCRIPT]  [1] xFreezyHD :))
+[SCRIPT]  [1] xFreezyHD =))
+[SCRIPT]  [1] xFreezyHD ba sa facem si dealershop
+[SCRIPT]  [1] xFreezyHD adica car shop
+[SCRIPT]  [2] AlecuMadalin32 da
+[SCRIPT]  [1] xFreezyHD unde il facem ? tot la sunshine autos?
+[SCRIPT]  [1] xFreezyHD trebuie sa desparta a jeufuit de numele playerului
+[SCRIPT]  [1] xFreezyHD ca e gen alecumadalin32a jefuit
+[SCRIPT]  [1] xFreezyHD o
+[SCRIPT]  [2] AlecuMadalin32 usor ca io am treaba
+[SCRIPT]  [1] xFreezyHD :)))
+[SCRIPT]  [1] xFreezyHD ce trb ?
+[SCRIPT]  [2] AlecuMadalin32 sa adauga pickupurile astea
+[SCRIPT]  [1] xFreezyHD aa ok
+[SCRIPT]  [1] xFreezyHD eu sunt tester :))
+[SCRIPT]  [1] xFreezyHD aici pe sv asta
+[SCRIPT]  [0] Athanatos IM BACK
+[SCRIPT]  [1] xFreezyHD ba nicu
+[SCRIPT]  [0] Athanatos ?
+[SCRIPT]  [1] xFreezyHD desparte si tu acolo 
+[SCRIPT]  [1] xFreezyHD ca e alecumadalin32a jefuit
+[SCRIPT]  [1] xFreezyHD pune a ala 
+[SCRIPT]  [1] xFreezyHD despartit
+[SCRIPT]  [0] Athanatos ?
+[SCRIPT]  [0] Athanatos AAA
+[SCRIPT]  [0] Athanatos OK
+[SCRIPT]  [0] Athanatos lel
+[SCRIPT]  [1] xFreezyHD nicu bagam si autoshop?
+[SCRIPT]  [1] xFreezyHD adica dealer de masini*
+[SCRIPT]  [0] Athanatos NiCu BaGaM x
+[SCRIPT]  [0] Athanatos bAgAm Y
+[SCRIPT]  [1] xFreezyHD da
+[SCRIPT]  [1] xFreezyHD z
+[SCRIPT]  [0] Athanatos BRUH
+[SCRIPT]  [0] Athanatos xd
+[SCRIPT]  [0] Athanatos eks deee
+[SCRIPT]  [2] AlecuMadalin32 serios coaie
+[SCRIPT]  [0] Athanatos XDDDDDDDDD
+[SCRIPT]  [1] xFreezyHD ./s
+[SCRIPT]  [0] Athanatos BRUH
+[SCRIPT]  [0] Athanatos BRUH
+[SCRIPT]  [2] AlecuMadalin32 XDDDDDDDDDDDDD
+[SCRIPT]  [1] xFreezyHD ./s era sa salvezi pozitia masiniti? gen sa se spawneze acolo in general?
+[SCRIPT]  [0] Athanatos  /park
+[SCRIPT]  [1] xFreezyHD nu personale
+[SCRIPT]  [1] xFreezyHD gen sa fie acolo pt job etc
+[SCRIPT]  [0] Athanatos da coae
+[SCRIPT]  [0] Athanatos in rcnr le salvai cu /park
+[SCRIPT]  [1] xFreezyHD da stiu
+[SCRIPT]  [0] Athanatos HALECU VIN DUPA TINE
+[SCRIPT]  [0] Athanatos xd
+[SCRIPT]  [0] Athanatos bruh
+[SCRIPT]  [1] xFreezyHD ne trebuia un gui la register
+[SCRIPT]  [1] xFreezyHD ca astia s cam prosti
+[SCRIPT]  [1] xFreezyHD si nu stiu ce sa scrie :))
+[SCRIPT]  [0] Athanatos BRUH
+[SCRIPT]  [0] Athanatos intai ne trebuie baza la server
+[SCRIPT]  [0] Athanatos dupa GUI
+[SCRIPT]  the index 'FIndPlauer' does not exist
+[SCRIPT]  the index 'FIndPlayer' does not exist
+[SCRIPT]  [1] xFreezyHD pai si dureaza sa faci baza?
+[SCRIPT]  [0] Athanatos idk
+[SCRIPT]  [1] xFreezyHD pai pana pe 31 daca era gata
+[SCRIPT]  [1] xFreezyHD sa i au o copie
+[SCRIPT]  [1] xFreezyHD il testez cu playeri si dupa ep 12 il hostam
+[SCRIPT]  [0] Athanatos ep12?
+[SCRIPT]  [1] xFreezyHD pe*
+[SCRIPT]  [0] Athanatos aaa ai canal yt
+[SCRIPT]  [1] xFreezyHD cn?
+[SCRIPT]  [0] Athanatos bruh
+[SCRIPT]  [0] Athanatos nvm
+[SCRIPT]  [1] xFreezyHD :))
+[SCRIPT]  [1] xFreezyHD am canal de yt
+[SCRIPT]  [0] Athanatos die
+[SCRIPT]  Member Variable not found
+[SCRIPT]  [0] Athanatos lol
+[SCRIPT]  [0] Athanatos HALECU
+[SCRIPT]  [0] Athanatos HAI NOS
+[SCRIPT]  [0] Athanatos XD
+[SCRIPT]  [1] xFreezyHD daca terminati svru pana pe 30 dau 3 euro la unu dintre voi :))
+[SCRIPT]  [2] AlecuMadalin32 10
+[SCRIPT]  [1] xFreezyHD fac economii :))
+[SCRIPT]  [2] AlecuMadalin32 paypal sau fizic? :))
+[SCRIPT]  [1] xFreezyHD paypal ca voi santeti din aia cu cutite daca ne intalnim
+[SCRIPT]  [0] Athanatos XD WTF
+[SCRIPT]  trying to set 'null'
+[SCRIPT]  [0] Athanatos sup'
+[SCR

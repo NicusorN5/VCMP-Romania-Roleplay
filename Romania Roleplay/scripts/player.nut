@@ -115,7 +115,6 @@ function Player::Load()
 {
 	local n = ::escapeSQLString(this.Name);
 	local q = ::QuerySQL(DB,"SELECT * FROM Status WHERE Nume = '"+n+"'");
-	local plr = this.GetInst();
 	if(q)
 	{
 		this.Cash = ::GetSQLColumnData(q,1);
@@ -146,6 +145,7 @@ function Player::Load()
 		::FreeSQLQuery(q);
 	}
 	this.RefreshIP();
+	this.UpdateInst();
 }
 
 function Player::SaveStats()

@@ -198,6 +198,10 @@ function onPickupClaimPicked( player, pickup )
 
 function onPickupPickedUp( player, pickup )
 {
+	if(pickup.Model == 408)
+	{
+		RobPointPickup(pickup,player);
+	}
 }
 
 function onPickupRespawn( pickup )

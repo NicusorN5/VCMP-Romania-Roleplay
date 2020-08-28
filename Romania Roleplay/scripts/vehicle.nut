@@ -83,6 +83,10 @@ function Car::Buy(classplayer)
 	}
 	return false;
 }
+function Car::Create()
+{
+	
+}
 function Car::LoadStats()
 {
 	
@@ -114,4 +118,12 @@ function Car::SetColors(c1,c2)
 	//perhaps use:
 	//this.Color1 = inst.Colour1 = c1; ?
 	//this.Color2 = inst.Colour2 = c2; ?
+}
+function Car_GetPrice(model)
+{
+	
+}
+function Car::CreateInst()
+{
+	this.ID = CreateVehicle(this.Model,0,Vector(this.SpawnPosX,this.SpawnPosY,this.SpawnPosZ),0,this.Color1,this.Color2);
 }

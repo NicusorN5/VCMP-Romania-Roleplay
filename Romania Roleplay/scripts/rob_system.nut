@@ -1,8 +1,8 @@
-class RobPoint()
+class RobPoint
 {
 	constructor(name,pos)
 	{
-		PID = CreatePickup(408,0,pos,255,true);
+		PID = ::CreatePickup(408,0,1,pos,255,true).ID;
 		Name = name;
 		Pos = pos;
 	}
@@ -13,35 +13,69 @@ class RobPoint()
 
 function CreateRobPoints()
 {
-	
-}
-
-function AddRobPoint(name,pos)
-{
-	QuerySQL("INSERT INTO RobPoints VALUES(Nume ,PosX ,PosY ,PosZ) ("+escapeSQLString(name)+","+pos.x+","+pos.y+","+pos.z+")");
-}
-
-function GetRobPointName(pickup)
-{
-	for(local i =0 ; i < 300; i++)
+	local q = QuerySQL(DB,"SELECT * FROM RobPoints");
+	if(q == null) return;
+	CreateFromQuery(q,0);
+	for(local i = 1 ; GetSQLNextRow(q) ; i++)
 	{
-		if(pickup.Pos.x == ROBPOINTS[i].Pos.x && pickup.Pos.y == ROBPOINTS[i].Pos.y && pickup.Pos.z == ROBPOINTS[i].Pos.z)
+		CreateFromQuery(q,i);
+	}
+	FreeSQLQuery(q);
+}
+
+function CreateRobPoint(name,pos)
+{
+	for(local i =0 ; i < 300;i++)
+	{
+		if(ROBPOINTS[i] == null)
 		{
-			return ROBPOINTS[i].Name;
+			ROBPOINTS[i] = RobPoint(name,pos);
+			AddRobPoint(name,pos);
+			return;
 		}
 	}
 }
 
-function RobPoint::Rob()
+function AddRobPoint(name,pos)
+{
+	::QuerySQL(DB,"INSERT INTO RobPoints VALUES ('"+escapeSQLString(name)+"',"+pos.x+","+pos.y+","+pos.z+")");
+}
+
+function CreateFromQuery(q,i)
+{
+	local name = GetSQLColumnData(q,0);
+	local x = GetSQLColumnData(q,1);
+	local y = GetSQLColumnData(q,2);
+	local z = GetSQLColumnData(q,3);
+	ROBPOINTS[i] = RobPoint(name,Vector(x,y,z));
+}
+
+function RobPointPickup(pickup,player)
+{
+	for(local i =0 ; i < 300; i++)
+	{
+		if(ROBPOINTS[i] != null)
+		{
+			if(pickup.ID == ROBPOINTS[i].PID)
+			{
+				ROBPOINTS[i].Rob(player);
+			}
+		}
+	}
+}
+
+function RobPoint::Rob(player)
 {
 	if(PLAYERS[player.ID].Job == 1)
 	{
 		PLAYERS[player.ID].Job = 0;
 		PLAYERS[player.ID].WantedLevel += 10;
 	}
-	PLAYER[player.ID].Cash += 5000 + (rand() % 5000);
-	PLAYER[player.ID].WantedLevel++;
-	PLAYER[player.ID].UpdateInst();
+	PLAYERS[player.ID].Cash += 5000 + (rand() % 5000);
+	PLAYERS[player.ID].WantedLevel++;
+	PLAYERS[player.ID].UpdateInst();
+	::FindPickup(this.PID).RespawnTime = 90000;
+	::MSG(C_RED+player.Name+"a jefuit "+this.Name,C_RED+player.Name+" robbed "+this.Name);
 }
 
 ROBPOINTS <- array(300,null);

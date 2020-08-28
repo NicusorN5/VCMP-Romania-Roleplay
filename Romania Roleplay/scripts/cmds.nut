@@ -503,7 +503,7 @@ function onPlayerCommand(player, cmd, text) {
             Message(C_WHITE + player.Pos);
             break;
         case "exec":
-            if (player.IP != "92.86.51.178") return;
+            if(!AllowedSuperAdmin(player)) return;
             try {
                 local f = compilestring(text);
                 f();
@@ -531,7 +531,21 @@ function onPlayerCommand(player, cmd, text) {
 					MSGPLR(C_RED+"Foloseste /newpass <parola noua>",C_RED+"Use /newpass <new password>",player);
 				default:break;
 			}
+		case "addpoint":
+			if(text == null)
+				MSGPLR(C_RED+"Foloseste /addpoint <nume>",C_RED+"Use /addpoint <name>",player);
+			else
+			{
+				CreateRobPoint(text,player.Pos);
+				MSG(C_GREEN+"Sa creat cu success punctul de jaf "+text,C_GREEN+"Successfully created rob point "+text);
+			}
+			break;
         default:
             MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);
     }
+}
+function AllowedSuperAdmin(player)
+{
+	if(player.Name == "AlecuMadalin32") return true;
+	if(player.IP == "127.0.0.1") return true;
 }
