@@ -178,7 +178,23 @@ function MSGPLR(romana,engleza,plr)
 {
 	PLAYERS[plr.ID].Message(romana,engleza);
 }
+function ANNPLR(romana,engleza,plr)
+{
+	PLAYERS[plr.ID].Announce(romana,engleza)	
 
+}
+function Player::Announce(romana,engleza)
+{
+	switch(this.Language)
+	{
+		case 0:
+			::Announce(engleza,this.GetInst());
+			break;
+		default:
+			::Announce(romana,this.GetInst());
+			break;
+	}
+}
 function Player::GetRobRankEN()
 {
 	if(this.RobSkill == 0) return "Legit citizen";

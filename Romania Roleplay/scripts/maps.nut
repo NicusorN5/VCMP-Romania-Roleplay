@@ -6,4 +6,4 @@ vrock1     <- CreateCheckpoint(null, 0, true, Vector(-887.084, 1158.96, 14.0691 
 vrock2     <- CreateCheckpoint(null, 0, true, Vector(-877.85, 1160.43, 17.813   ), ARGB(100, 255, 0, 0), 1.1) // vrock exit (checkpoints)
 stadium1   <- CreateCheckpoint(null, 0, true, Vector(-1113.68, 1331.01, 20.1156 ), ARGB(100, 255, 0, 0), 7)   // stadium entrance (checkpoints)
 stadium2   <- CreateCheckpoint(null, 0, true, Vector(-1414.87, 1154.66, 267.429 ), ARGB(100, 255, 0, 0), 2)   // stadium exit (checkpoints)
-
+bankbomb   <- CreatePickup(564,Vector(-943.811, -343.913, 7.22693))
