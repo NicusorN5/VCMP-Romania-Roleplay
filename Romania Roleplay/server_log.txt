@@ -71982,3 +71982,56 @@ Player 'AlecuMadalin32' ID 0 disconnected.
 [SCRIPT]  Total Players: 0
 [SCRIPT]  caca maca face caca xD
 [SCRIPT]  -------------------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel32
+
+Loaded plugin: sqlite04rel32
+
+Player 'AlecuMadalin32' ID 0 connected.
+Disconnecting player 'AlecuMadalin32' at ID 0, sent quit packet with reason 1.
+Player 'AlecuMadalin32' ID 0 disconnected.
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel32
+
+Loaded plugin: sqlite04rel32
+
+Player 'AlecuMadalin32' ID 0 connected.
+Player 'AlecuMadalin32' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel32
+
+Loaded plugin: sqlite04rel32
+
+Player 'AlecuMadalin32' ID 0 connected.
+Disconnecting player 'AlecuMadalin32' at ID 0, sent quit packet with reason 1.
+Player 'AlecuMadalin32' ID 0 disconnected.
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
