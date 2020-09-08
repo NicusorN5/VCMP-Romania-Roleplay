@@ -66,16 +66,17 @@ function RobPointPickup(pickup,player)
 
 function RobPoint::Rob(player)
 {
+	local robrand = rand() % 5000
 	if(PLAYERS[player.ID].Job == 1)
 	{
 		PLAYERS[player.ID].Job = 0;
 		PLAYERS[player.ID].WantedLevel += 10;
 	}
-	PLAYERS[player.ID].Cash += 5000 + (rand() % 5000);
+	PLAYERS[player.ID].Cash += 5000 + robrand;
 	PLAYERS[player.ID].WantedLevel++;
 	PLAYERS[player.ID].UpdateInst();
 	::FindPickup(this.PID).RespawnTime = 90000;
-	::MSG(C_RED+player.Name+"a jefuit "+this.Name,C_RED+player.Name+" robbed "+this.Name);
+	::MSG(C_RED+player.Name+" a jefuit "+this.Name+" si a furat "+robrand+"$",C_RED+player.Name+" robbed "+this.Name+" and got "+robrand+"$")
 }
 
 ROBPOINTS <- array(300,null);

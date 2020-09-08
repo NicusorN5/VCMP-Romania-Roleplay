@@ -189,6 +189,17 @@ function onVehicleMove( vehicle, lastX, lastY, lastZ, newX, newY, newZ )
 {
 }
 
+function onBankRob (p) {
+    local player = FindPlayer(p)
+    if (player) {
+    local money = 10000000 + rand()%10000000
+    CreateExplosion(1,7,-940.005, -343.934, 7.22693,-1,true)
+    player.Cash += money
+    Message("" + C_RED + "" + player.Name + " Este cautat de toata politia din Mamaia City!!!!!!")
+    Message("" + C_RED + "" + player.Name + " Is the most wanted in the entire Mamaia City!!!!!!")
+    }
+}
+
 // =========================================== P I C K U P   E V E N T S ==============================================
 
 function onPickupClaimPicked( player, pickup )
@@ -198,10 +209,21 @@ function onPickupClaimPicked( player, pickup )
 
 function onPickupPickedUp( player, pickup )
 {
-	if(pickup.Model == 408)
-	{
-		RobPointPickup(pickup,player);
-	}
+    switch (pickup.Model) {
+        case 408:
+        RobPointPickup(pickup,player);
+        break;
+        case 564:
+        if (player.Weapon == 16) {
+        NewTimer("onBankRob",5000,1,player.ID)
+        ANNPLR("Ai 5 secunde sa fugi","You have 5 seconds to run",player)
+        player.RemoveWeapon(16)
+        }
+        else {
+        MSGPLR(C_RED+"Trebuie sa ai o bomba",C_RED+"You must have a bomb",player)
+        }
+        break;
+    }
 }
 
 function onPickupRespawn( pickup )
