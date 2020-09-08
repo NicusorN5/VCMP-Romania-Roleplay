@@ -540,6 +540,32 @@ function onPlayerCommand(player, cmd, text) {
 				MSG(C_GREEN+"Sa creat cu success punctul de jaf "+text,C_GREEN+"Successfully created rob point "+text);
 			}
 			break;
+		case "dealership":
+			SetDealerShip(player);
+			break;
+		case "nextcar":
+			DealerShipUpdate(1);
+			break;
+		case "prevcar":
+			DealerShipUpdate(-1);
+			break;
+		case "buycar":
+			DealerShipAccept();
+			break;
+		case "exitdealership":
+			DealerShipOut();
+			break;
+		case "park":
+			if(player.Vehicle != null)
+			{
+				if(CARS[player.Vehicle.ID-1].Owner == player.Name)
+				{
+					CARS[player.Vehicle.ID-1].Park();
+					MSGPLR(C_GREEN+"Masina parcata!",C_GREEN+"Car parked!",player);
+				}
+				else MSGPLR(C_RED+"Nu esti propietarul acestei masini.",C_RED+"You don't own this car",player);
+				break;
+			}
         default:
             MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);
     }

@@ -72,16 +72,18 @@ function Main()
 	SetFriendlyFire(false);
 }
 Main();
-dofile("scripts/functions.nut");
-dofile("scripts/events.nut");
-dofile("scripts/player.nut");
-dofile("scripts/jobs.nut");
-dofile("scripts/client.nut");
-dofile("scripts/cmds.nut")
-dofile("scripts/maps.nut")
-dofile("IPtoCountry.nut")
-dofile("scripts/zombie_survival.nut")
-dofile("scripts/rob_system.nut",true)
+dofile("scripts/functions.nut",true);
+dofile("scripts/events.nut",true);
+dofile("scripts/player.nut",true);
+dofile("scripts/jobs.nut",true);
+dofile("scripts/client.nut",true);
+dofile("scripts/cmds.nut",true)
+dofile("scripts/maps.nut",true)
+dofile("IPtoCountry.nut",true)
+dofile("scripts/zombie_survival.nut",true)
+dofile("scripts/rob_system.nut",true);
+dofile("scripts/vehicle.nut",true);
+dofile("scripts/dealership.nut",true);
 PLAYERS <- array(100,null);
 iptocountry <- ConnectSQL("IpToCountry.db")
 DB <- ConnectSQL( "Database.db" );
@@ -89,12 +91,13 @@ QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Cont(Nume TEXT, Parola TEXT, AdminLvl IN
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Status(Nume TEXT,Bani INT,BaniBanca INT, Clan TEXT,Job INT,"+
 "RobSkill INT,CopSkill INT,MedicSkill INT,FiremanSkill INT,HunterSkill INT,BankGuardSkill INT,TruckerSkill INT,"+
 "TerroristSkill INT,GangsterSkill INT,ArmsDealerSkill INT,RacesFinished INT,EventsFinished INT,VIPLvl INT,Hunger INT,"+
-"Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT,WantedLevel FLOAT)");
+"Skin INT, Kills INT,Deaths INT,LastPosX FLOAT,LastPosY FLOAT,LastPosZ FLOAT,WantedLevel FLOAT,Faction TEXT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Masini(CarID INTEGER PRIMARY KEY AUTOINCREMENT,ModelID INT,PosX FLOAT,PosY FLOAT,PosZ FLOAT,"+
-"RotX FLOAT,RotY FLOAT,RotZ FLOAT,RotW FLOAT,Color1 INT,Color2 INT,Fuel INT,Nitro INT)");
+"RotX FLOAT,RotY FLOAT,RotZ FLOAT,RotW FLOAT,Color1 INT,Color2 INT,Fuel INT,Nitro INT,Owner TEXT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Props(PropID INTEGER PRIMARY KEY AUTOINCREMENT, Nume TEXT, PosX FLOAT,PosY FLOAT, PosZ FLOAT, Owner TEXT, Shared1 TEXT,Shared2 TEXT,Shared3 TEXT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS RobPoints(Nume TEXT,PosX FLOAT,PosY FLOAT,PosZ FLOAT)");
 QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Bans(Victim TEXT,Admin TEXT,Reason TEXT,Timp TEXT)");
+QuerySQL(DB,"CREATE TABLE IF NOT EXISTS Faction(Name TEXT,Owner TEXT,Weapon1 INT,Weapon2 INT,Weapon3 INT,Skin INT,Job INT,PosX FLOAT, PosY FLOAT,PosZ FLOAT )");
 
 CreateRadioStream(15, "Taraf", "http://manele.radiotaraf.ro:7100", true);
 CreateRadioStream(16, "Antena Satelor", "http://stream2.srr.ro:8042", true);
@@ -107,3 +110,4 @@ CreateRadioStream(22, "Magic FM", "http://live.magicfm.ro:9128/magicfm.aacp", tr
 CreateRadioStream(23, "Radio Zu", "https://live7digi.antenaplay.ro/radiozu/02148/seg48000-04294086.ts", true);
 
 CreateRobPoints();
+CreateCars();
