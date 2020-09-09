@@ -123,6 +123,9 @@ function Car::SaveStats()
 	::QuerySQL(DB,"UPDATE Masini SET Owner ='"+name+"',PosX = "+this.SpawnPosX+" ,PosY = "+this.SpawnPosY+" ,PosZ = "+this.SpawnPosZ+" ,RotX = "+
 	this.SpawnQuaternionX+" ,RotY = "+this.SpawnQuaternionY+",RotZ = "+this.SpawnQuaternionZ+" ,RotW = "+this.SpawnQuaternionW+" ,Color1 = "+this.Color1+" ,Color2 = "+this.Color2+
 	" ,Fuel = "+this.Fuel+" ,Nitro = "+this.NOS+" WHERE CarID="+this.dbID);
+	::print("UPDATE Masini SET Owner ='"+name+"',PosX = "+this.SpawnPosX+" ,PosY = "+this.SpawnPosY+" ,PosZ = "+this.SpawnPosZ+" ,RotX = "+
+	this.SpawnQuaternionX+" ,RotY = "+this.SpawnQuaternionY+",RotZ = "+this.SpawnQuaternionZ+" ,RotW = "+this.SpawnQuaternionW+" ,Color1 = "+this.Color1+" ,Color2 = "+this.Color2+
+	" ,Fuel = "+this.Fuel+" ,Nitro = "+this.NOS+" WHERE CarID="+this.dbID);
 }
 function Car::Park() 
 {

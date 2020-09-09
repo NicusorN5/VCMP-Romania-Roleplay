@@ -566,6 +566,22 @@ function onPlayerCommand(player, cmd, text) {
 				else MSGPLR(C_RED+"Nu esti propietarul acestei masini.",C_RED+"You don't own this car",player);
 				break;
 			}
+		case "getcar":
+			if(text != null)
+			{
+				if(text.tointeger() > 0)
+				{
+					if(CARS[text.tointeger() - 1].Owner == player.Name)
+					{
+						FindVehicle(text.tointeger()).Pos = player.Pos + Vector(-5*sin(player.Angle),5*cos(player.Angle),0);
+						MSGPLR(C_GREEN+"Masina a fost adusa",C_GREEN+"Car brought to you!",player);
+					}
+					else MSGPLR(C_RED+"Nu esti propietarul acestei masini.",C_RED+"You don't own this car",player);
+				}
+				else MSGPLR(C_RED+"Foloseste /getcar <id>",C_RED+"Use /getcar <id>",player);
+			}
+			else MSGPLR(C_RED+"Foloseste /getcar <id>",C_RED+"Use /getcar <id>",player);
+			break;
         default:
             MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);
     }

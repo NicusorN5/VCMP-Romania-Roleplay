@@ -371,10 +371,12 @@ function DealerShipAccept()
 	CARS[i].Fuel = 100;
 	CARS[i].NOS = 100;
 	CARS[i].Owner = player.Name;
+	CARS[i].dbID = DEALERSHIP_CARINST_ID;
 	CARS[i].CreateNew();
 	player.Vehicle = vehicle;
 	vehicle.Pos = Vector(-1009.18, -880.162, 12.8868);
-		
+	print(i+" "+DEALERSHIP_PLR);
+	
 	DEALERSHIP_ID = 130;
 	DEALERSHIP_PLR = -1;
 	DEALERSHIP_CARINST_ID = -1;
