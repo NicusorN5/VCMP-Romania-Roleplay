@@ -179,6 +179,8 @@ function onVehicleExplode( vehicle )
 
 function onVehicleRespawn( vehicle )
 {
+	local c = CARS[vehicle.ID-1];
+	vehicle.Rotation = Quaternion(c.SpawnQuaternionX,c.SpawnQuaternionY,c.SpawnQuaternionZ,c.SpawnQuaternionW);
 }
 
 function onVehicleHealthChange( vehicle, oldHP, newHP )

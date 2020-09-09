@@ -346,7 +346,7 @@ function DealerShipOut()
 function DealerShipAccept()
 {
 	local c = GetVehCash(GetVehName(DEALERSHIP_ID));
-	if(PLAYERS[DEALERSHIP_PLR].Cash < c)
+	if(!PLAYERS[DEALERSHIP_PLR].Buy(c))
 	{
 		MSGPLR(C_RED+"Ai nevoie de "+c+"!",C_RED+"You need "+c+" $",FindPlayer(DEALERSHIP_PLR));
 		return;
@@ -354,32 +354,27 @@ function DealerShipAccept()
 	local player = FindPlayer(DEALERSHIP_PLR); // # 1
 	player.Frozen = false;
 	player.RestoreCamera(); // #2
-	for(local i =0 ; i < 1000; i++)
-	{
-		if(CARS[i] == null)
-		{
-			CARS[i] = Car(0);
-			CARS[i].ID = DEALERSHIP_CARINST_ID;
-			local vehicle = FindVehicle(DEALERSHIP_CARINST_ID);
-			CARS[i].Model = vehicle.Model;
-			CARS[i].SpawnPosX = vehicle.Pos.x;
-			CARS[i].SpawnPosY = vehicle.Pos.y;
-			CARS[i].SpawnPosZ = vehicle.Pos.z;
-			CARS[i].SpawnQuaternionX = vehicle.Rotation.x;
-			CARS[i].SpawnQuaternionY = vehicle.Rotation.y;
-			CARS[i].SpawnQuaternionZ = vehicle.Rotation.z;
-			CARS[i].SpawnQuaternionW = vehicle.Rotation.w;
-			CARS[i].Color1 = vehicle.Colour1;
-			CARS[i].Color2 = vehicle.Colour2;
-			CARS[i].Fuel = 100;
-			CARS[i].NOS = 100;
-			CARS[i].Owner = player.Name;
-			CARS[i].CreateNew();
-			player.Vehicle = vehicle;
-			vehicle.Pos = Vector(-1009.18, -880.162, 12.8868);
-			break;
-		}
-	}
+
+	local i = DEALERSHIP_CARINST_ID-1;
+	CARS[i] = Car(DEALERSHIP_CARINST_ID);
+	local vehicle = FindVehicle(DEALERSHIP_CARINST_ID);
+	CARS[i].Model = vehicle.Model;
+	CARS[i].SpawnPosX = vehicle.Pos.x;
+	CARS[i].SpawnPosY = vehicle.Pos.y;
+	CARS[i].SpawnPosZ = vehicle.Pos.z;
+	CARS[i].SpawnQuaternionX = vehicle.Rotation.x;
+	CARS[i].SpawnQuaternionY = vehicle.Rotation.y;
+	CARS[i].SpawnQuaternionZ = vehicle.Rotation.z;
+	CARS[i].SpawnQuaternionW = vehicle.Rotation.w;
+	CARS[i].Color1 = vehicle.Colour1;
+	CARS[i].Color2 = vehicle.Colour2;
+	CARS[i].Fuel = 100;
+	CARS[i].NOS = 100;
+	CARS[i].Owner = player.Name;
+	CARS[i].CreateNew();
+	player.Vehicle = vehicle;
+	vehicle.Pos = Vector(-1009.18, -880.162, 12.8868);
+		
 	DEALERSHIP_ID = 130;
 	DEALERSHIP_PLR = -1;
 	DEALERSHIP_CARINST_ID = -1;

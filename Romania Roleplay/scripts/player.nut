@@ -334,9 +334,15 @@ function Player::Buy(value)
 	if(this.Cash > value)
 	{
 		this.Cash -= value;
+		this.UpdateInst();
 		return true;
 	}
 	else return false;
+}
+function Player::SetCash(c)
+{
+	this.Cash = c;
+	this.UpdateInst();
 }
 function Player::UpdateInst()
 {

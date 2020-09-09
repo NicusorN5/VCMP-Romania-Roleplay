@@ -173,7 +173,7 @@ function CreateCars()
 	local a = ::QuerySQL(DB,"SELECT * FROM Masini");
 	LoadCar(0,a);
 	CARS[0].CreateInst();
-	for(local i =0 ; GetSQLNextRow(a) ;i++)
+	for(local i =1 ; GetSQLNextRow(a) ;i++)
 	{
 		LoadCar(i,a);
 		CARS[i].CreateInst();
