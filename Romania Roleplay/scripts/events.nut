@@ -191,12 +191,62 @@ function onVehicleMove( vehicle, lastX, lastY, lastZ, newX, newY, newZ )
 {
 }
 
+function onVehicleRepair (p)
+{
+    local player = FindPlayer(p);
+    if (player) {
+        local veh = player.Vehicle;
+        if (veh) {
+            player.IsFrozen = false;
+            player.Vehicle.Fix();
+            player.Vehicle.Colour1 = rand() % 255, rand() % 255, rand() % 255,
+                Announce("New engine and paint job. keep your car safe", player, 7)
+            player.PlaySound(50008)
+        }
+    }
+}
+
+function load1(p) {
+    local player = FindPlayer(p)
+    if (player) {
+        Announce("~b~- ~h~- ~h~-", player, 7)
+        player.PlaySound(370)
+    }
+}
+
+function load2(p) {
+    local player = FindPlayer(p)
+    if (player) {
+        Announce("~h~- ~b~- ~h~-", player, 7)
+        player.PlaySound(370)
+    }
+}
+
+function load3(p) {
+    local player = FindPlayer(p)
+    if (player) {
+        Announce("~h~- ~h~- ~b~-", player, 7)
+        player.PlaySound(370)
+    }
+}
+
+function onHealNigga(p)
+{
+    local player = FindPlayer(p)
+    if (player)
+    {
+        player.Health = 100;
+        player.IsDrunk = false;
+    }
+}
+
 function onBankRob (p) {
     local player = FindPlayer(p)
     if (player) {
     local money = 10000000 + rand()%10000000
     CreateExplosion(1,7,-940.005, -343.934, 7.22693,-1,true)
     player.Cash += money
+ 	PlaySound( player.UniqueWorld , 50002 , player.Pos );
     Message("" + C_RED + "" + player.Name + " Este cautat de toata politia din Mamaia City!!!!!!")
     Message("" + C_RED + "" + player.Name + " Is the most wanted in the entire Mamaia City!!!!!!")
     }
@@ -212,6 +262,17 @@ function onPickupClaimPicked( player, pickup )
 function onPickupPickedUp( player, pickup )
 {
     switch (pickup.Model) {
+        case 367:
+        if (player.Health  == 100 || player.Health == 250) MSGPLR(C_RED + "Vino mai incolo ca ai deja " + player.Health, C_RED + "Come back later, you already have like " + player.Health, player);
+        else {
+        onHealNigga(player.ID)
+        }
+        break;
+        case 595:
+        player.Health -= 10     
+        player.IsDrunk = true
+        MSGPLR(C_RED + "Esti beat, fratioare! ;3 XOXO", C_RED + "You're drunk, my friend ;3 XOXO", player)
+        break;
         case 408:
         RobPointPickup(pickup,player);
         break;
@@ -277,6 +338,23 @@ function onCheckpointEntered(player, cp) {
         case 7:
         player.Pos = Vector(-1106.06, 1330.81, 20.07) // rezolvat
         player.PlaySound(465)
+        break;
+        case 8:
+        case 9:
+        case 10:
+        local veh = player.Vehicle;
+        if (veh)
+        {
+        	player.IsFrozen = true
+        	player.PlaySound(50001)
+        	NewTimer("load1",1000,1,player.ID)
+        	NewTimer("load2",2000,1,player.ID)
+        	NewTimer("load3",3000,1,player.ID)
+        	NewTimer("onVehicleRepair",4000,1,player.ID)
+        }
+        else {
+        MSGPLR(C_RED + "Tu nu esti intro masina", C_RED + "You ain't in a vehicle" )
+        }
         break;
  	}
  }
