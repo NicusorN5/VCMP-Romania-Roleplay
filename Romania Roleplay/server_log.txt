@@ -4810,3 +4810,12 @@ Unable to start server on host:  port: 8193. Port in use?
 [SCRIPT]  879
 [SCRIPT]  880
 [SCRIPT
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Unable to start server on host:  port: 8193. Port in use?
