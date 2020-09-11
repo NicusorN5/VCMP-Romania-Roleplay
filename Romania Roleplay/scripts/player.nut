@@ -49,6 +49,8 @@ class Player
 	Logged = false;
 	LoginAttempts = 0;
 	IP = null;
+	
+	JobQuantity = 0;
 }
 //Functii interene
 function Player::GetInst()
@@ -335,6 +337,7 @@ function Player::Buy(value)
 	{
 		this.Cash -= value;
 		this.UpdateInst();
+		MessagePlayer(C_RED+"-"+c+" $",this.GetInst());
 		return true;
 	}
 	else return false;
@@ -386,4 +389,10 @@ function Player::PasswordChange(newpass)
 		return 1;
 	}
 	return 2;
+}
+function Player::AddCash(c)
+{
+	this.Cash += c;
+	this.UpdateInst();
+	MessagePlayer(C_GREEN+"+"+c+" $",this.GetInst());
 }

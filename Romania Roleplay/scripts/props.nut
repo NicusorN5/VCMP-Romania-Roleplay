@@ -7,6 +7,7 @@ class Prop
 		Name = name;
 		Pos = pos;
 		Price = price;
+		P_ID = CreatePickup().ID;
 	}
 	Name = null;
 	Pos = null;
@@ -15,6 +16,7 @@ class Prop
 	Shared1 = null;
 	Shared2 = null;
 	Shared3 = null;
+	P_ID = -1;
 }
 
 function Prop::CreateNew()
@@ -30,6 +32,30 @@ function Prop::Buy(player)
 	}
 	else return 1;
 }
+function Prop::Sell(player)
+{
+	if(player != null)
+	{
+		PLAYERS[player.ID].AddCash(this.Price/2);
+	}
+	this.Owner = null;
+	this.Shared1 = null;
+	this.Shared2 = null;
+	this.Shared3 = null;
+	::QuerySQL(DB,"UPDATE Props SET Nume = NULL, Shared1 = NULL, Shared2 = NULL, Shared3 = NULL WHERE Nume = "+this.GetSafeName());
+}
+function Prop::DetailString()
+{
+	return this.Name+", $ "+this.Price+" Owner"+this.Owner;
+}
+function Prop::Detail2String()
+{
+	local s1 = " ",s2 = " " ,s3 = " ";
+	if(this.Shared1 != null) s1 = this.Shared1;
+	if(this.Shared2 != null) s1 = this.Shared2;
+	if(this.Shared3 != null) s1 = this.Shared3;
+	return this.Name+", $ "+this.Price+" Owner"+this.Owner+" Shared: "+s1+" "+s2+" "+s3;
+}
 function Prop::SaveOwner()
 {
 	local name = this.GetSafeName();
@@ -44,33 +70,33 @@ function Prop::GetSafeName()
 function Prop::SaveShared1()
 {
 	local sh1 = ::escapeSQLString(this.Shared1);
-	::QuerySQL(DB,"UPDATE Props SET Shared1 = "+sh1);
+	::QuerySQL(DB,"UPDATE Props SET Shared1 = "+sh1+" WHERE Nume = "+this.GetSafeName());
 }
 function Prop::SaveShared2()
 {
-	local sh1 = ::escapeSQLString(this.Shared2);
-	::QuerySQL(DB,"UPDATE Props SET Shared1 = "+sh2);
+	local sh2 = ::escapeSQLString(this.Shared2);
+	::QuerySQL(DB,"UPDATE Props SET Shared1 = "+sh2+" WHERE Nume ="+this.GetSafeName());
 }
 function Prop::SaveShared3()
 {
-	local sh1 = ::escapeSQLString(this.Shared3);
-	::QuerySQL(DB,"UPDATE Props SET Shared3 = "+sh3+" WHERE "+);
+	local sh3 = ::escapeSQLString(this.Shared3);
+	::QuerySQL(DB,"UPDATE Props SET Shared3 = "+sh3+" WHERE Nume = "+this.GetSafeName());
 }
 
 function Prop::DeleteShared1()
 {
 	this.Shared1 = null;
-	::QuerySQL(DB,"UPDATE Props SET Shared1 = NULL WHERE Name = "+this.GetSafeName());
+	::QuerySQL(DB,"UPDATE Props SET Shared1 = NULL WHERE Nume = "+this.GetSafeName());
 }
 function Prop::DeleteShared1()
 {
 	this.Shared2 = null;
-	::QuerySQL(DB,"UPDATE Props SET Shared2 = NULL WHERE Name = "+this.GetSafeName());
+	::QuerySQL(DB,"UPDATE Props SET Shared2 = NULL WHERE Nume = "+this.GetSafeName());
 }
 function Prop::DeleteShared1()
 {
 	this.Shared2 = null;
-	::QuerySQL(DB,"UPDATE Props SET Shared3 = NULL WHERE Name = "+this.GetSafeName());
+	::QuerySQL(DB,"UPDATE Props SET Shared3 = NULL WHERE Nume = "+this.GetSafeName());
 }
 
 function Prop::Share(player)
