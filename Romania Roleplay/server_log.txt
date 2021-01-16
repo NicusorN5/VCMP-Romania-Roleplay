@@ -4839,3 +4839,104 @@ Loaded plugin: squirrel04rel64
 Loaded plugin: sqlite04rel64
 
 Unable to start server on host:  port: 8193. Port in use?
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: squirrel04rel64
+
+Loaded plugin: sqlite04rel64
+
+Player '_NicusorN5' ID 0 connected.
+Player 'AlecuMadalin32' ID 1 connected.
+Disconnecting player '_NicusorN5' at ID 0, sent quit packet with reason 1.
+Player '_NicusorN5' ID 0 disconnected.
+Player 'NicusorN5' ID 0 connected.
+Player 'NicusorN5' ID 0 disconnected (timeout).
+Player 'AlecuMadalin32' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+AN ERROR HAS OCCURED [the index 'LastPosX' does not exist]
+
+CALLSTACK
+*FUNCTION [Spawn()] scripts/player.nut line [318]
+*FUNCTION [onPlayerSpawn()] scripts/events.nut line [63]
+
+LOCALS
+[p] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'LastPosX' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerPart()] scripts/events.nut line [37]
+
+LOCALS
+[reason] 1
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'LastPosX' does not exist]
+
+CALLSTACK
+*FUNCTION [Spawn()] scripts/player.nut line [318]
+*FUNCTION [onPlayerSpawn()] scripts/events.nut line [63]
+
+LOCALS
+[p] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'LastPosX' does not exist]
+
+CALLSTACK
+*FUNCTION [Spawn()] scripts/player.nut line [318]
+*FUNCTION [onPlayerSpawn()] scripts/events.nut line [63]
+
+LOCALS
+[p] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [183]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'LastPosX' does not exist]
+
+CALLSTACK
+*FUNCTION [Spawn()] scripts/player.nut line [318]
+*FUNCTION [onPlayerSpawn()] scripts/events.nut line [63]
+
+LOCALS
+[p] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  parameter 1 has an invalid type 'null' ; expected: 'string'
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [183]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE

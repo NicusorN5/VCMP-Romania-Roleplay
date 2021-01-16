@@ -38,13 +38,17 @@ function Prop::CreateNew()
 }
 function Prop::Buy(player)
 {
-	if(PLAYERS[player.ID].Buy(this.Price))
+	if(this.Owner != null)
 	{
-		this.Owner = player.Name;
-		this.SaveOwner();
-		return 1;
+		if(PLAYERS[player.ID].Buy(this.Price))
+		{
+			this.Owner = player.Name;
+			this.SaveOwner();
+			return 1;
+		}
+		else return 0;
 	}
-	else return 0;
+	else return 2;
 }
 function Prop::Sell(player)
 {
@@ -52,6 +56,7 @@ function Prop::Sell(player)
 	{
 		PLAYERS[player.ID].AddCash(this.Price/2);
 	}
+	if(this.Owner != player.Name) return false;
 	this.Owner = null;
 	this.Shared1 = null;
 	this.Shared2 = null;

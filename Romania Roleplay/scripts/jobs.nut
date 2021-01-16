@@ -214,7 +214,24 @@ function JobInteract(player)
 	{
 		case 1:
 		{
-			
+			local d = 1000000;
+			for(local i =0 ; i < 100;i++)
+			{
+				local plr = FindPlayer(i);
+				if(plr != null)
+				{
+					if(DistanceFromPoint(player.Pos.x,player.Pos.y,plr.Pos.x,plr.Pos.y) < 5)
+					{
+						Arrest(plr,player);
+						break;
+					}
+				}
+			}
 		}
 	}
+}
+function Arrest(robber,cop)
+{
+	player.Pos = (0,0,0);
+	
 }

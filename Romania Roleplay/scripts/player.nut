@@ -11,6 +11,7 @@ class Player
 		Clan = "";
 		Job = 0;
 		Skin = 15;
+		Prop = -1;
 	}
 	ID = 0;
 	Name = null;
@@ -41,9 +42,7 @@ class Player
 	Skin = 0;
 	Hunger = 100;
 	
-	LastPosX = 0.0;
-	LastPosY = 0.0;
-	LastPosZ = 0.0;
+	Prop = -1;
 
 	SpamMessages = 0;
 	Logged = false;
@@ -51,6 +50,7 @@ class Player
 	IP = null;
 	
 	JobQuantity = 0;
+	ArrestTime = 0;
 }
 //Functii interene
 function Player::GetInst()
@@ -83,8 +83,8 @@ function Player::Register(password)
 		::QuerySQL(DB,"INSERT INTO Cont(Nume , Parola , AdminLvl , Limba ) VALUES('"+n+"','"+p+"', 0 , 0 )");
 		::QuerySQL(DB,"INSERT INTO Status(Nume ,Bani ,BaniBanca , Clan ,Job ,"+
 "RobSkill ,CopSkill ,MedicSkill ,FiremanSkill ,HunterSkill ,BankGuardSkill ,TruckerSkill ,"+
-"TerroristSkill ,GangsterSkill ,ArmsDealerSkill ,RacesFinished ,EventsFinished ,VIPLvl ,Hunger, Skin, Kills, Deaths, LastPosX, LastPosY, LastPosZ,WantedLevel ) VALUES "+
-"('"+n+"','0','0','','0','0','0','0','0','0','0','0','0','0','0','0','0','0','100','15','0','0','0','0','0','0')");
+"TerroristSkill ,GangsterSkill ,ArmsDealerSkill ,RacesFinished ,EventsFinished ,VIPLvl ,Hunger, Skin, Kills, Deaths, Prop,WantedLevel ) VALUES "+
+"('"+n+"','0','0','','0','0','0','0','0','0','0','0','0','0','0','0','0','0','100','15','0','0','-1','0')");
 		this.Logged = true;
 		return true;
 	}
@@ -140,10 +140,8 @@ function Player::Load()
 		this.Skin = ::GetSQLColumnData(q,19);
 		this.Kills = ::GetSQLColumnData(q,20);
 		this.Deaths = ::GetSQLColumnData(q,21);
-		this.LastPosX = ::GetSQLColumnData(q,22);
-		this.LastPosY = ::GetSQLColumnData(q,23);
-		this.LastPosZ = ::GetSQLColumnData(q,24);
-		this.WantedLevel = ::GetSQLColumnData(q,25);
+		this.Prop = ::GetSQLColumnData(q,22);
+		this.WantedLevel = ::GetSQLColumnData(q,23);
 		::FreeSQLQuery(q);
 	}
 	this.RefreshIP();
@@ -156,7 +154,7 @@ function Player::SaveStats()
 	::QuerySQL(DB,"UPDATE Status SET Bani = "+this.Cash+" ,BaniBanca = "+this.BankCash+" , Clan = '"+this.Clan+"' ,Job = "+this.Job+" ,"+
 "RobSkill = "+this.RobSkill+" ,CopSkill = "+this.CopSkill+" ,MedicSkill = "+this.MedicSkill+" ,FiremanSkill = "+this.FiremanSkill+",HunterSkill = "+this.HunterSkill+" ,BankGuardSkill = "+this.BankGuardSkill+",TruckerSkill = "+this.TruckerSkill+" ,"+
 "TerroristSkill = "+this.TerroristSkill+" ,GangsterSkill = "+this.GangsterSkill+" ,ArmsDealerSkill = "+this.ArmsDealerSkill+",RacesFinished = "+this.RacesFinished+" ,EventsFinished = "+this.EventsFinished+" ,VIPLvl = "+this.VIP+",Hunger = "+
-this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",LastPosX = "+this.LastPosX+",LastPosY = "+this.LastPosY+",LastPosZ = "+this.LastPosZ+", WantedLevel = "+this.WantedLevel+" WHERE Nume = '"+p+"'");
+this.Hunger+" ,Skin = "+this.Skin+",Kills = "+this.Kills+",Deaths = "+this.Deaths+",Prop = '"+this.Prop+"' WantedLevel = "+this.WantedLevel+" WHERE Nume = '"+p+"'");
 	::QuerySQL(DB,"UPDATE Cont SET IP = '"+this.IP+"' WHERE Nume = '"+p+"'");
 }
 
@@ -318,9 +316,7 @@ function Player::GetHunterRankRO()
 function Player::Spawn()
 {
 	local p = this.GetInst();
-	p.Pos = Vector(this.LastPosX, this.LastPosY, this.LastPosZ+2);
-	::Message(p.Pos+"")
-	if((p.Pos.x == 0) && (p.Pos.y == 0) && (p.Pos.z == 2)) p.Pos = Vector(-1359.28, -932.029, 20.8931);
+	if(this.Prop != -1) p.Pos = PROPS[this.Prop].Pos;
 	p.Skin = this.Skin;
 }
 function Player::Quit()
@@ -337,7 +333,7 @@ function Player::Buy(value)
 	{
 		this.Cash -= value;
 		this.UpdateInst();
-		MessagePlayer(C_RED+"-"+c+" $",this.GetInst());
+		::MessagePlayer(::C_RED+"-"+value+" $",this.GetInst());
 		return true;
 	}
 	else return false;
@@ -395,4 +391,24 @@ function Player::AddCash(c)
 	this.Cash += c;
 	this.UpdateInst();
 	MessagePlayer(C_GREEN+"+"+c+" $",this.GetInst());
+}
+function Player::ShowStats()
+{
+	
+}
+function Player::UpdateMinute()
+{
+	this.Hunger -= 1;
+	this.Thirst -= 2;
+	if(this.Hunger < 0)
+	{
+		local i = this.GetInst();
+	}
+}
+function CPlayer::Kill()
+{
+	this.Eject();
+	this.Health = 0;
+	this.Armour = 0;
+	this.Immunity = 0;
 }

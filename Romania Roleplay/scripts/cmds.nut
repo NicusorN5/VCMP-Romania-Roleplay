@@ -125,7 +125,7 @@ function onPlayerCommand(player, cmd, text) {
 				else if(PLAYERS[player.ID].AdminLvl > 1)
 				{
 					local params = split(text, " "), plr = FindPlayer(params[0]), ammount = params[1];
-					plr.GiveMoney(ammount.tointeger());
+					PLAYERS[plr.ID].AddCash(ammount);
 				}
 				break;
 			}				
@@ -228,19 +228,19 @@ function onPlayerCommand(player, cmd, text) {
 						case "on":
 							if (!player.Immunity) 
 							{
-								player.Immunity = -1
-								MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.",player)
+								player.Immunity = -1;
+								MSGPLR(C_WHITE + "Imunitate on.", C_WHITE + "Immunity on.",player);
 							}
-							else MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on",player)
+							else MSGPLR(C_WHITE + "Imunitatea e deja activata.", C_WHITE + "Immunity is already on",player);
 						case "off":
 							if (!player.Immunity) 
 							{
-								player.Immunity = 0
-								MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.",player)
+								player.Immunity = 0;
+								MSGPLR(C_WHITE + "Imunitate off.", C_WHITE + "Immunity off.",player);
 							} 
-							else MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off",player)
+							else MSGPLR(C_WHITE + "Imunitatea e deja dezactivata.", C_WHITE + "Immunity is already off",player);
 						default:
-							MessagePlayer(C_RED + "Syntax: /inv <on/off>", player)
+							MessagePlayer(C_RED + "Syntax: /inv <on/off>", player);
 					}
 				}
 				break;
@@ -252,20 +252,20 @@ function onPlayerCommand(player, cmd, text) {
 					MSGPLR("Trebuie sa fi admin","You need to be admin",player);
 					break;
 				}
-				if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <player> <text>", player)
-				if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player)
+				if (!text) MessagePlayer(C_RED + "Syntax: /send-client-side-message <player> <text>", player);
+				if (!player.IsSpawned) MSGPLR(C_WHITE + "Trebuie sa fi spawnat","You need to be spawned",player);
 				else 
 				{
-					SendDataToClient(FindPlayer(GetTok(text," ",1),GetTok(text," ",2).tointeger())
-					print("client-side-message >> " + text)
+					SendDataToClient(FindPlayer(GetTok(text," ",1)),GetTok(text," ",2).tointeger());
+					print("client-side-message >> " + text);
 				}
 				break;
 			}
 			case "admincmds":
 			{
-				MessagePlayer(C_WHITE + "[LVL 1]: /ann, /bigann, /goto, /bring, /warn, /addcash", player)
-				MessagePlayer(C_WHITE + "[LVL 2]: /kick, /ban, /drown, /clearchat, /inv	", player)
-				MessagePlayer(C_WHITE + "[LVL 3]: /send-clien-side-message", player)
+				MessagePlayer(C_WHITE + "[LVL 1]: /ann, /bigann, /goto, /bring, /warn, /addcash", player);
+				MessagePlayer(C_WHITE + "[LVL 2]: /kick, /ban, /drown, /clearchat, /inv	", player);
+				MessagePlayer(C_WHITE + "[LVL 3]: /send-clien-side-message", player);
 				break;
 			}
 			//END   OF ADMINCMDS
@@ -694,22 +694,39 @@ function onPlayerCommand(player, cmd, text) {
 				else MSGPLR(C_RED+"Foloseste /getcar <id>",C_RED+"Use /getcar <id>",player);
 				break;
 			}
-			case "buyprop"
+			case "buyprop":
 			{
 				local id = -1;
 				try
 				{
 					id = text.tointeger();
 				}
-				catch()
+				catch(e)
 				{
 					MSGPLR(C_RED+"Foloseste /buyprop <id>",C_RED+"Use /buyprop <id>",player);
 					break;
 				}
-				if(PROPS[id].Buy(player) == true)
+				local s = PROPS[id].Buy(player);
+				if(s == 1)
 				{
-					
+					MSG(C_GREEN+player+" a cumparat propietatea "+PROPS[id].Name,C_GREEN+player+" bought the property "+PROPS[id].Name);
 				}
+				if(s == 0) MSGPLR(C_RED+"Ai nevoie de "+PROPS[id].Price+" $",C_RED+"You need "+PROPS[id].Price+" $",player);
+				if(s == 2) MSGPLR(C_RED+"Aceasta propietate e deja luata.",C_RED+"This property is not for sale.",player);
+				break;
+			}
+			case "sellprop":
+			{
+				local p = PLAYERS[player.ID].Prop;
+				if(p != -1)
+				{
+					local pn = PROPS[p].Name;
+					if(PROPS[p].Sell(player) == true)
+					{
+						MSG(C_GREEN+player+" si-a vandut propietatea "+pn,C_GREEN+player+" sold his property "+pn);
+					}
+				}
+				break;
 			}
 			default:
 				MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);

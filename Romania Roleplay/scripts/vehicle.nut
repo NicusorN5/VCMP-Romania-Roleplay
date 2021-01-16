@@ -22,6 +22,11 @@ class Car
 	Fuel = 100;
 	NOS = 1000;
 }
+function Car::ShowStats()
+{
+	local i = this.GetInst();
+	return "ID "+i.ID+" Owner:"+this.Owner+" Fuel"+this.Fuel+" NOS:"+this.NOS;
+}
 function Car::GetInst()
 {
 	return ::FindVehicle(this.ID);

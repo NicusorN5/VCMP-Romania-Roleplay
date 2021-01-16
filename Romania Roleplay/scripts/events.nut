@@ -34,9 +34,6 @@ function onPlayerJoin( player )
 
 function onPlayerPart( player, reason )
 {
-	PLAYERS[player.ID].LastPosX = player.Pos.x;
-	PLAYERS[player.ID].LastPosY = player.Pos.y;
-	PLAYERS[player.ID].LastPosZ = player.Pos.z;
 	PLAYERS[player.ID].Quit();
 	PLAYERS[player.ID] = null;
 }
@@ -167,6 +164,7 @@ function onPlayerEnteringVehicle( player, vehicle, door )
 
 function onPlayerEnterVehicle( player, vehicle, door )
 {
+	MessagePlayer(C_WHITE+CARS[vehicle.ID-1].ShowStats(),player);
 }
 
 function onPlayerExitVehicle( player, vehicle )
@@ -243,12 +241,11 @@ function onHealNigga(p)
 function onBankRob (p) {
     local player = FindPlayer(p)
     if (player) {
-    local money = 10000000 + rand()%10000000
-    CreateExplosion(1,7,-940.005, -343.934, 7.22693,-1,true)
-    player.Cash += money
- 	PlaySound( player.UniqueWorld , 50002 , player.Pos );
-    Message("" + C_RED + "" + player.Name + " Este cautat de toata politia din Mamaia City!!!!!!")
-    Message("" + C_RED + "" + player.Name + " Is the most wanted in the entire Mamaia City!!!!!!")
+		local money = 10000 + rand()%10000;
+		CreateExplosion(1,7,-940.005, -343.934, 7.22693,-1,true)
+		PLAYERS[player.ID].AddCash(money);
+		PlaySound( player.UniqueWorld , 50002 , player.Pos );
+		MSG( C_RED + player.Name + " a jefuit banca!", C_RED + player.Name + " robbed the bank!");
     }
 }
 
