@@ -19,6 +19,19 @@ class Prop
 	P_ID = -1;
 }
 
+function AddProp(prop)
+{
+	for(local i = 0; i < 300;i++)
+	{
+		if(PROPS[i] == null)
+		{
+			PROPS[i] = prop;
+			return true;
+		}
+	}
+	return false;
+}
+
 function Prop::CreateNew()
 {
 	::QuerySQL(DB,"INSERT INTO Props( Nume , Price, PosX ,PosY ,PosZ ) VALUES ("+name+","+price+","+Pos.X+","+Pos.y+","+Pos.z")");
@@ -29,8 +42,9 @@ function Prop::Buy(player)
 	{
 		this.Owner = player.Name;
 		this.SaveOwner();
+		return 1;
 	}
-	else return 1;
+	else return 0;
 }
 function Prop::Sell(player)
 {

@@ -12,8 +12,8 @@ function SendDataToClient( player, ... )
 {
     if( vargv[0] )
     {
-        local     byte = vargv[0],
-                len = vargv.len();
+        local byte = vargv[0],
+              len = vargv.len();
                 
         if( 1 > len ) print( "ToClent <" + byte + "> No params specified." );
         else

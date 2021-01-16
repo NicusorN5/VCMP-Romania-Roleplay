@@ -96,7 +96,7 @@ function Car::CreateInst()
 {
 	local veh = ::CreateVehicle(this.Model,0,SpawnPosX,SpawnPosY,SpawnPosZ,0,Color1,Color2);
 	if(veh == null) return;
-	veh.Rotation = Quaternion(this.SpawnQuaternionX,SpawnQuaternionY,SpawnQuaternionZ,SpawnQuaternionW);
+	veh.Rotation = Quaternion(this.SpawnQuaternionX,this.SpawnQuaternionY,this.SpawnQuaternionZ,this.SpawnQuaternionW);
 	this.ID = veh.ID;
 }
 function LoadCar(i,a)

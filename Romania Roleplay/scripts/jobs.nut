@@ -69,7 +69,7 @@ function Player::SetJob(job,j)
 		case 5:
 		{
 			this.GiveJobSkin(91);
-			player.Colour = RGB(255,255,0);
+			player.Colour = RGB(149,0,255);
 			player.GiveWeapon(102,330);
 			player.GiveWeapon(19,88);
 			player.GiveWeapon(30,2);
@@ -78,12 +78,12 @@ function Player::SetJob(job,j)
 		case 6:
 		{
 			this.GiveJobSkin(153);
-			player.Colour = RGB(149, 255, 0);
+			player.Colour = RGB(255, 255, 0);
 			break;
 		}
 		case 7:
 		{
-			player.Colour = RGB(128,0,0);
+			player.Colour = RGB(0,128,0);
 			player.GiveWeapon(28,55);
 			player.GiveWeapon(20,88);
 			player.GiveWeapon(17,187);
@@ -96,6 +96,7 @@ function Player::SetJob(job,j)
 			player.GiveWeapon(18,66);
 			player.GiveWeapon(102,660);
 			player.GiveWeapon(31,550);
+			player.Colour = RGB(0,255,0);
 			break;
 		}
 		default: 
@@ -120,7 +121,7 @@ function ShowJobHelp(player,job)
 			"Poti intra in urmariri de politie daca jucatorul cautat merge cu viteza.", player);
 			break;
 		}
-		case 1:
+		case 2:
 		{
 			MSGPLR(C_WHITE+"Your job is healing players. \n "+
 			"To heal a player, press [E] when near him, or use /heal <player>.",
@@ -128,14 +129,34 @@ function ShowJobHelp(player,job)
 			"Pentru a vindeca un jucator, apasa tasta [E] cand esti aproape de el, sau foloseste /heal <jucator>", player);
 			break;
 		}
-		case 2:
+		case 3:
 		{
 			MSGPLR(C_WHITE+"Your job is stopping fires around the city. \n "+
 			"To stop a fire, enter a firetruck, approach the fire and press [E].",
 			C_WHITE+"Slujba ta e sa stingi focurile din oras. \n"+
 			"Pentru a opri un foc, intra intr-un camion de pompieri, apropiete de foc, si apasa [E]", player);
 			break;
-		}		
+		}
+		case 4:
+		{
+			MSGPLR(C_WHITE+"Your job is collecting trash with your Trashmaster. \n"+
+			"To collect trash, collect the garbage and enter your Trashmaster.",
+			C_WHITE+"Slujba ta e sa colectezi gunoiul din oras. \n"+
+			"Ca sa colectezi gunoiul, colecteaza pickupurile si intra in masina de gunoi.",player);
+			break;
+		}
+		case 5:
+		{
+			MSGPLR(C_WHITE+"Your job is transporting cash from the bank to an other location or vice versa.\n"+
+			"You will also get rewarded for killing players  that are wanted by the cops.",
+			C_WHITE+"Slubja ta e sa trasporti bani de la banca la alte locuri sau vice versa. \n"+
+			"O sa primesti bani daca omori jucatorii care au wanted level.",player);
+			break;
+		}
+		case 6:
+		{
+			
+		}
 		default: break;
 	}
 }
@@ -151,7 +172,6 @@ function GiveJobReward(player,victim,extra)
 	{
 		case 1:
 		{
-			//player = CPlayer(instance), victim = CPlayer(instance)
 			if(PLAYERS[victim.ID].WantedLevel > 0)
 			{
 				PLAYERS[player.ID].AddCash(PLAYERS[victim.ID].WantedLevel * 500);
@@ -170,6 +190,31 @@ function GiveJobReward(player,victim,extra)
 		{
 			PLAYERS[player.ID].AddCash((100 - victim.Health) * 100);
 		}
+		case 5:
+		{
+			if(PLAYERS[victim.ID].WantedLevel > 0)
+			{
+				PLAYERS[player.ID].AddCash(PLAYERS[victim.ID].WantedLevel * 250);
+				PLAYERS[victim.ID].WantedLevel = 0;
+				MSG(C_GREEN+player.Name+" killed wanted player "+victim.Name,C_GREEN+player.Name+"a omorat jucatorul cautat "+victim.Name);
+			}
+		}
+		case 8:
+		{
+			PLAYERS[player.ID].AddCash(1000);
+			PLAYERS[player.ID].WantedLevel += 1;
+			break;
+		}
 		default: break;
+	}
+}
+function JobInteract(player)
+{
+	switch(PLAYERS[player.ID].Job)
+	{
+		case 1:
+		{
+			
+		}
 	}
 }
