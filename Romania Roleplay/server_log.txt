@@ -4940,3 +4940,4104 @@ LOCALS
 [c] NULL
 [vehicle] INSTANCE
 [this] TABLE
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ----------[RO/EN] VCMP Romania Roleplay----------
+[SCRIPT]  Server Password: N/A
+[SCRIPT]  Total Players: 0
+[SCRIPT]  caca maca face caca xD
+[SCRIPT]  -------------------------------------------------
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /m4
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /createcar 6405
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'tointeger' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/cmds.nut line [589]
+
+LOCALS
+[text] NULL
+[cmd] "createcar"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /createcar 6405
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /createcar 6406
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5 haha
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5 sall alecu
+[SCRIPT]  [2] NicusorN5 XD
+[SCRIPT]  [2] NicusorN5 mai vii pe voice chat?
+[SCRIPT]  [0] AlecuMadalin32 xd nu
+[SCRIPT]  [2] NicusorN5 :(
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [0] AlecuMadalin32 bn bn hai ca vin pe voice chat 
+[SCRIPT]  [2] NicusorN5 lol
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /dealershi[p
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /dealership
+[SCRIPT]  [2] NicusorN5  /nextcar
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /prevcar
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /kill
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+[SCRIPT]  [1] Hatz f
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  [2] NicusorN5  /dealership
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'ShowStats' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerEnterVehicle()] scripts/events.nut line [167]
+
+LOCALS
+[door] 0
+[vehicle] INSTANCE
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not exist]
+
+CALLSTACK
+*FUNCTION [onVehicleRespawn()] scripts/events.nut line [181]
+
+LOCALS
+[c] NULL
+[vehicle] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'SpawnQuaternionX' does not 

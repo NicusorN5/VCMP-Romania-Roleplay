@@ -728,6 +728,12 @@ function onPlayerCommand(player, cmd, text) {
 				}
 				break;
 			}
+			case "m4":
+			{
+				player.GiveWeapon(26,500);
+				Message(player+" este acum gay :)");
+				break;
+			}
 			default:
 				MSGPLR("[#ff0000][EROARE][#ffffff] Comanda /" + cmd + " nu exista. Uita-te in /cmds", "[#ff0000][EROARE][#ffffff] Command /" + cmd + " doesn't exist. Please check /cmds", player);
 		}
